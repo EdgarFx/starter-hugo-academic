@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:linzhuyue/linzhuyue.github.io.git
+	branch = main
