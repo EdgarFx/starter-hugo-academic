@@ -80,4 +80,4 @@ highlight_name: true
 ---
 
 A PhD with a passion for legged robots, focusing on how to use optimal control and RL-based control to make legged robots more agile, such as jumping, parkour, plummeting, and adapting to uneven terrains.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/LinZhuYue.pdf" "newtab" >}}Simple CV{{< /staticref >}}.
