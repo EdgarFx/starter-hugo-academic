@@ -37,7 +37,16 @@ tags:
   - Quadruped Robot
 
 categories:
-  - Demo
+
+
+links:
+  - icon: zhihu
+    icon_pack: fab
+    name: Follow
+    url: https://www.zhihu.com/people/yuexiaozhu
+
+url_video: 'https://youtu.be/9z2WHRUhB2k'
+
 ---
 
 ## Overview

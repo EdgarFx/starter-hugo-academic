@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: zhihu
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen

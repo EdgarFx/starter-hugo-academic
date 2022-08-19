@@ -31,6 +31,8 @@ content:
       tag: Optimal Control
     - name: Reinforcement Learning
       tag: Reinforcement Learning
+    - name: Legged Robot
+      tag: Legged Robot
     - name: Other
       tag: Demo
 
