@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Posts
     url: '#posts'
-    weight: 20
+    weight: 40
   - name: Research
     url: '#research'
     weight: 30
@@ -18,7 +18,7 @@ main:
 #    weight: 40
   - name: Publications
     url: '#featured'
-    weight: 40
+    weight: 20
 #  - name: Contact
 #    url: '#contact'
 #    weight: 50
