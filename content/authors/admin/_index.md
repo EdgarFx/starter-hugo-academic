@@ -6,7 +6,7 @@ title: Linzhu Yue
 superuser: true
 
 # Role/position/tagline
-role: PhD Condidate 
+role: PhD Candidate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
