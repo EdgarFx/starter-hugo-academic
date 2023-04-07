@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:linzhuyue/linzhuyue.github.io.git
+	url = https://github.com/EdgarFx/EdgarFx.github.io.git
 	branch = main
