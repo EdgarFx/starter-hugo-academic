@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Linzhu Yue
+title: Xinyi Yang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate 
+role: Undergraduate in Computer Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
