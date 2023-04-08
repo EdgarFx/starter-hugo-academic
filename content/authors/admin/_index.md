@@ -17,12 +17,7 @@ organizations:
 bio: My research interests include quadruped robot, bipedal robot and Reinforcement Learning.
 
 # Interests to show in About widget
-Previous Research Areas:
-  - Quantum Computing
-  - Power System
-  - Carbon Market
-
-Current interests:
+interests:
   - Deep Learning
   - Computer Vision (Visual-SLAM)
   - Robotics (Modular Robotics)
