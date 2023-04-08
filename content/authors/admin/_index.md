@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinyi Yang
+title: Xiang Fei
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ role: Undergraduate in Computer Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Chinese University of Hong Kong (CUHK)
-    url: https://www.cuhk.edu.hk/
+  - name: The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+    url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quadruped robot, bipedal robot and Reinforcement Learning.
@@ -25,18 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Mechanical and Automation Engineering (MAE)
+    - course: Visiting Student, Berkeley Global Access Program
       institution: CUHK
-      year: 2020-2023
-    - course: MEng in Electronic Engineering and Information
-      institution: University of Chinese Academy of Sciences (UCAS)
-      year: 2015-2017  
-    - course: MEng in Electronic Engineering and Information
-      institution: University of Science and Technology of China (USTC)
-      year: 2014-2015
-    - course: BSc in Electronic Science and Technology
-      institution: Wuhan University
-      year: 2010-2014
+      year: 2023 spring term
+    - course: B.Eng. in Computer Science and Engineering
+      institution: The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+      year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,25 +39,20 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lzyue@mae.cuhk.edu.hk'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    link: 'xiangfei@link.cuhk.edu.cn'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=7mJEEhkAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/linzhuyue
-  - icon: zhihu
+    link: https://github.com/EdgarFx
+  - icon: linkedin
     icon_pack: fab
-    link: https://www.zhihu.com/people/yuexiaozhu
-  - icon: bilibili
-    icon_pack: fab
-    link: https://space.bilibili.com/349005938
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/channel/UCCInBxO2CE1GrlkDKepGNEA
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/regen-yue-47b78518b/
+    link: https://www.linkedin.com/in/xiang-fei/
+  # - icon: zhihu
+  #   icon_pack: fab
+  #   link: https://www.zhihu.com/people/xfb-4-76
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -79,5 +68,16 @@ email: ''
 highlight_name: true
 ---
 
-A PhD with a passion for legged robots, focusing on how to use optimal control and RL-based control to make legged robots more agile, such as jumping, parkour, plummeting, and adapting to uneven terrains.
+Undergraduate student majoring in Computer Science and Engineering, The Chinese University of Hong Kong, Shenzhen. Currently at UC Berkeley as a visiting student (23 spring). Looking for a Ph.D. position in 24 Fall.
+
+My previous research areas covered a wide range from economics to computer science and engineering, including:
+1. Carbon Market (ESG evaluation system, carbon disclosure and carbon quotas, policy analysis);
+2. Power Systems (fault diagnosis, modeling simulation, electricity market);
+3. Quantum Computing (quantum machine learning and quantum optimization);
+4. Neuromorphic Computing (Deep learning-based EEG-driven auditory attention);
+5. Computer Vision (3D reconstruction, SLAM, SfM, table recognition);
+
+At present, I am focusing on the field of robotics and computer vision, and will participate the Robotics Institute Summer Scholar program (RISS) at Carnegie Mellon University this summer.
+
+In addition to academic research, I have an entrepreneurial experience (Shenzhen TeaBreak Network Technology Co., Ltd.), and as the head of the back-end development department, I participated in the development of multiple products. Github Link: https://github.com/TeaBreak-Tech.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/LinZhuYue.pdf" "newtab" >}}Simple CV{{< /staticref >}}.
