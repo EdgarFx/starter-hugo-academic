@@ -44,8 +44,7 @@ experience:
     location: Berkeley, CA
     date_start: '2023-04-01'
     date_end: ''
-    description: |2-
-        Research Project: SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California)
+    description: Research Project - SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California).
 
 
     - title: Undergraduate Researcher of Human Language Technology Laboratory
@@ -58,7 +57,7 @@ experience:
     description: |2-
         Mentor: Dr. Haizhou Li
         
-        Research Project: EEG-driven Auditory Attention
+        Research Project: EEG-driven Auditory Attention.
 
     - title: Computer Vision Algorithm Engineer
     company: Winning Health Technology Group Co.,Ltd
