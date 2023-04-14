@@ -47,59 +47,59 @@ experience:
     description: Research Project - SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California).
 
 
-    - title: Undergraduate Researcher of Human Language Technology Laboratory
-    company: Shenzhen Research Institute of Big Data - Human Language Technology Laboratory
-    company_url: ''
-    company_logo: sribd
-    location: Shenzhen
-    date_start: '2022-09-01'
-    date_end: '2023-02-01'
-    description: |2-
-        Mentor: Dr. Haizhou Li
+    # - title: Undergraduate Researcher of Human Language Technology Laboratory
+    # company: Shenzhen Research Institute of Big Data - Human Language Technology Laboratory
+    # company_url: ''
+    # company_logo: sribd
+    # location: Shenzhen
+    # date_start: '2022-09-01'
+    # date_end: '2023-02-01'
+    # description: |2-
+    #     Mentor: Dr. Haizhou Li
         
-        Research Project: EEG-driven Auditory Attention.
+    #     Research Project: EEG-driven Auditory Attention.
 
-    - title: Computer Vision Algorithm Engineer
-    company: Winning Health Technology Group Co.,Ltd
-    company_url: ''
-    company_logo: winning
-    location: Shanghai
-    date_start: '2022-07-01'
-    date_end: '2022-09-01'
-    description: Responsible for the 3D reconstruction of the gastrointestinal tract with a monocular endoscope as a computer vision engineer.
+    # - title: Computer Vision Algorithm Engineer
+    # company: Winning Health Technology Group Co.,Ltd
+    # company_url: ''
+    # company_logo: winning
+    # location: Shanghai
+    # date_start: '2022-07-01'
+    # date_end: '2022-09-01'
+    # description: Responsible for the 3D reconstruction of the gastrointestinal tract with a monocular endoscope as a computer vision engineer.
 
-    - title: Teaching Assistant of CUHKSZ (Discrete Mathematics)
-    company: CUHKSZ
-    company_url: ''
-    company_logo: cuhksz
-    location: Shenzhen
-    date_start: '2022-09-01'
-    date_end: '2022-12-01'
-    description: Teach Tutorials of Discrete Mathematics Course in CUHKSZ.
+    # - title: Teaching Assistant of CUHKSZ (Discrete Mathematics)
+    # company: CUHKSZ
+    # company_url: ''
+    # company_logo: cuhksz
+    # location: Shenzhen
+    # date_start: '2022-09-01'
+    # date_end: '2022-12-01'
+    # description: Teach Tutorials of Discrete Mathematics Course in CUHKSZ.
 
-    - title: Undergraduate Researcher of AIRS
-    company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
-    company_url: ''
-    company_logo: airs
-    location: Shenzhen
-    date_start: '2021-12-01'
-    date_end: '2022-12-01'
-    description: |2-
-        Mentor: Dr. Junhua Zhao
+    # - title: Undergraduate Researcher of AIRS
+    # company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
+    # company_url: ''
+    # company_logo: airs
+    # location: Shenzhen
+    # date_start: '2021-12-01'
+    # date_end: '2022-12-01'
+    # description: |2-
+    #     Mentor: Dr. Junhua Zhao
 
-        Research:
-        * Carbon Market (ESG evaluation system);
-        * Power Systems (modeling simulation, electricity market).
+    #     Research:
+    #     * Carbon Market (ESG evaluation system);
+    #     * Power Systems (modeling simulation, electricity market).
 
-    - title: Back-end Developer (Department Head)
-    company: Shenzhen TeaBreak Network Technology Co., Ltd
-    company_url: ''
-    company_logo: teabreak
-    location: Shenzhen
-    date_start: '2020-12-01'
-    date_end: '2022-01-01'
-    description: |2-
-        My entrepreneurial experience, and as the head of the back-end development department, I participated in the development of multiple products. Github Link: https://github.com/TeaBreak-Tech.
+    # - title: Back-end Developer (Department Head)
+    # company: Shenzhen TeaBreak Network Technology Co., Ltd
+    # company_url: ''
+    # company_logo: teabreak
+    # location: Shenzhen
+    # date_start: '2020-12-01'
+    # date_end: '2022-01-01'
+    # description: |2-
+    #     My entrepreneurial experience, and as the head of the back-end development department, I participated in the development of multiple products. Github Link: https://github.com/TeaBreak-Tech.
 
     
 
