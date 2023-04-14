@@ -37,14 +37,14 @@ experience:
         * Power Systems (fault diagnosis, modeling simulation, electricity market);
         * Quantum Computing (quantum machine learning and quantum optimization).
 
-    - title: Undergraduate Researcher of UC Berkeley
-    company: UC Berkeley
-    company_url: ''
-    company_logo: ucb
-    location: Berkeley, CA
-    date_start: '2023-04-01'
-    date_end: ''
-    description: Research Project - SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California).
+    # - title: Undergraduate Researcher of UC Berkeley
+    # company: UC Berkeley
+    # company_url: ''
+    # company_logo: ucb
+    # location: Berkeley, CA
+    # date_start: '2023-04-01'
+    # date_end: ''
+    # description: Research Project - SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California).
 
 
     # - title: Undergraduate Researcher of Human Language Technology Laboratory
