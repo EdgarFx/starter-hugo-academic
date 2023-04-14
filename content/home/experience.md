@@ -28,7 +28,7 @@ experience:
     company_logo: cuhksz
     location: Shenzhen
     date_start: '2022-03-01'
-    date_end: '2024-06-01'
+    date_end: ''
     description: |2-
         Mentor: Dr. Junhua Zhao
 
@@ -43,7 +43,7 @@ experience:
     company_logo: ucb
     location: Berkeley, CA
     date_start: '2023-04-01'
-    date_end: '2023-06-01'
+    date_end: ''
     description: |2-
         Research Project: SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California)
 
@@ -67,8 +67,7 @@ experience:
     location: Shanghai
     date_start: '2022-07-01'
     date_end: '2022-09-01'
-    description: |2-
-        Responsible for the 3D reconstruction of the gastrointestinal tract with a monocular endoscope as a computer vision engineer.
+    description: Responsible for the 3D reconstruction of the gastrointestinal tract with a monocular endoscope as a computer vision engineer.
 
     - title: Teaching Assistant of CUHKSZ (Discrete Mathematics)
     company: CUHKSZ
