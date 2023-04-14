@@ -47,17 +47,17 @@ experience:
     # description: Research Project - SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California).
 
 
-    # - title: Undergraduate Researcher of Human Language Technology Laboratory
-    # company: Shenzhen Research Institute of Big Data - Human Language Technology Laboratory
-    # company_url: ''
-    # company_logo: sribd
-    # location: Shenzhen
-    # date_start: '2022-09-01'
-    # date_end: '2023-02-01'
-    # description: |2-
-    #     Mentor: Dr. Haizhou Li
+    - title: Undergraduate Researcher of Human Language Technology Laboratory
+    company: Shenzhen Research Institute of Big Data - Human Language Technology Laboratory
+    company_url: ''
+    company_logo: sribd
+    location: Shenzhen
+    date_start: '2022-09-01'
+    date_end: '2023-02-01'
+    description: |2-
+        Mentor: Dr. Haizhou Li
         
-    #     Research Project: EEG-driven Auditory Attention.
+        Research Project: EEG-driven Auditory Attention.
 
     # - title: Computer Vision Algorithm Engineer
     # company: Winning Health Technology Group Co.,Ltd
