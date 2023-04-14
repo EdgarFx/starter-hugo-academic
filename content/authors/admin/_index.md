@@ -77,7 +77,7 @@ As an undergraduate student, I hope to broaden my horizons and learn knowledge i
 4. Neuromorphic Computing (Deep learning-based EEG-driven auditory attention);
 5. Computer Vision (3D reconstruction, SLAM, SfM, table recognition);
 
-Currently I find myself very interested in deep learning and its applications in engineering such as robotics. I am now focusing on the field of robotics and computer vision, and will participate the Robotics Institute Summer Scholar program (RISS) at Carnegie Mellon University this summer.
+Currently I find myself very interested in deep learning and its applications in engineering, such as robotics. I am now focusing on the field of robotics and computer vision, and will participate the Robotics Institute Summer Scholar program (RISS) at Carnegie Mellon University this summer.
 
 In addition to academic research, I have an entrepreneurial experience (Shenzhen TeaBreak Network Technology Co., Ltd.), and as the head of the back-end development department, I participated in the development of multiple products. Github Link: https://github.com/TeaBreak-Tech.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume\_xiangfei.pdf" "newtab" >}}Simple CV{{< /staticref >}}.

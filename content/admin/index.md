@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: linzhuyue
+type: xiangfei
 private: true
 outputs:
   - wowchemycms_config
