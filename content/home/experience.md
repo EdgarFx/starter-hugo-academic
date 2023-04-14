@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant of CUHK
-    company: CUHK
+  - title: Research Assistant of CUHKSZ
+    company: CUHKSZ - Lab of Energy Internet
     company_url: ''
-    company_logo: cuhk
-    location: Hong Kong
-    date_start: '2018-06-01'
-    date_end: '2019-10-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Developoing 12 DOF Indoor Painting Robot
-        * Control Framework Implementation
-        * Hardware Implementation
-
-  - title: Software Engineer of DJI
-    company: DJI
-    company_url: 'https://www.dji.com/'
-    company_logo: dji
+    company_logo: cuhksz
     location: Shenzhen
-    date_start: '2016-05-01'
-    date_end: '2018-05-30'
-    description: Big data collection and analysis 
+    date_start: '2022-03-01'
+    date_end: 'Present'
+    description: |2-
+        Mentor: Dr. Junhua Zhao
+        Research:
+        * Carbon Market (ESG evaluation system, carbon disclosure and carbon quotas, policy analysis);
+        * Power Systems (fault diagnosis, modeling simulation, electricity market);
+        * Quantum Computing (quantum machine learning and quantum optimization).
+
+  - title: Teaching Assistant of CUHKSZ (Discrete Mathematics)
+    company: CUHKSZ
+    company_url: ''
+    company_logo: cuhksz
+    location: Shenzhen
+    date_start: '2022-09-01'
+    date_end: '2022-12-01'
+    description: Teach Tutorials of Discrete Mathematics Course in CUHKSZ.
 
 design:
   columns: '2'
