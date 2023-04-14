@@ -28,7 +28,7 @@ experience:
     company_logo: cuhksz
     location: Shenzhen
     date_start: '2022-03-01'
-    date_end: 'Present'
+    date_end: '2024-06-01'
     description: |2-
         Mentor: Dr. Junhua Zhao
         Research:
