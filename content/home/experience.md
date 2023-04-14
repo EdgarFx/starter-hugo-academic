@@ -37,38 +37,16 @@ experience:
         * Power Systems (fault diagnosis, modeling simulation, electricity market);
         * Quantum Computing (quantum machine learning and quantum optimization).
 
-  - title: Teaching Assistant of CUHKSZ (Discrete Mathematics)
-    company: CUHKSZ
-    company_url: ''
-    company_logo: cuhksz
-    location: Shenzhen
-    date_start: '2022-09-01'
-    date_end: '2022-12-01'
-    description: Teach Tutorials of Discrete Mathematics Course in CUHKSZ.
-
     - title: Undergraduate Researcher of UC Berkeley
     company: UC Berkeley
     company_url: ''
     company_logo: ucb
     location: Berkeley, CA
     date_start: '2023-04-01'
-    date_end: '2022-06-01'
+    date_end: '2023-06-01'
     description: |2-
         Research Project: SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California)
 
-    - title: Undergraduate Researcher of AIRS
-    company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
-    company_url: ''
-    company_logo: airs
-    location: Shenzhen
-    date_start: '2021-12-01'
-    date_end: '2022-12-01'
-    description: |2-
-        Mentor: Dr. Junhua Zhao
-
-        Research:
-        * Carbon Market (ESG evaluation system);
-        * Power Systems (modeling simulation, electricity market).
 
     - title: Undergraduate Researcher of Human Language Technology Laboratory
     company: Shenzhen Research Institute of Big Data - Human Language Technology Laboratory
@@ -91,6 +69,29 @@ experience:
     date_end: '2022-09-01'
     description: |2-
         Responsible for the 3D reconstruction of the gastrointestinal tract with a monocular endoscope as a computer vision engineer.
+
+    - title: Teaching Assistant of CUHKSZ (Discrete Mathematics)
+    company: CUHKSZ
+    company_url: ''
+    company_logo: cuhksz
+    location: Shenzhen
+    date_start: '2022-09-01'
+    date_end: '2022-12-01'
+    description: Teach Tutorials of Discrete Mathematics Course in CUHKSZ.
+
+    - title: Undergraduate Researcher of AIRS
+    company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
+    company_url: ''
+    company_logo: airs
+    location: Shenzhen
+    date_start: '2021-12-01'
+    date_end: '2022-12-01'
+    description: |2-
+        Mentor: Dr. Junhua Zhao
+
+        Research:
+        * Carbon Market (ESG evaluation system);
+        * Power Systems (modeling simulation, electricity market).
 
     - title: Back-end Developer (Department Head)
     company: Shenzhen TeaBreak Network Technology Co., Ltd
