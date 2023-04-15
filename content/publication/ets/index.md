@@ -5,9 +5,10 @@ title: 'Carbon Disclosure Effect, Corporate Fundamentals, and Net-zero Emission 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xiyuan Zhou
   - Xinlei Wang
+  - Xiyuan Zhou
   - Admin
+  - Wenxuan Liu
   - Bohui Zhang
   - Junhua Zhao
 
@@ -19,11 +20,11 @@ authors:
 #   - ''
 
 
-date: '2023-04-14T00:00:00Z'
+date: '2023-04-13T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-04-14T00:00:00Z'
+publishDate: '2023-04-13T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,9 +36,9 @@ publication_types: ['3']
 # publication: In *JFR 2022*
 # publication_short: In *JFR*
 
-abstract: Under the national net-zero emission target, carbon disclosure becomes more significant for investors to evaluate corporate climate risk in formulating investing strategies. This study examines the causal relationship between carbon disclosure behaviour and company fundamentals to determine the impact of carbon disclosure on a company's financial performance. Additionally, we explore the association between company stock market performance, carbon disclosure behaviour and the establishment of China's national/regional emission trading systems (ETS). With artificial intelligence tools such as natural language processing and optical character recognition, we established a database of 4336 Chinese A-share listed companies' emission disclosure information from 2017 to 2022. Evidence shows that carbon disclosure raises companies' return rates, return on equity and Tobin's Q while decreasing stock price volatility. Our results also indicate that the stringent climate policy increases the potential climate risk of companies, e.g., the establishment of the national ETS and dual-carbon policy in China. Empirical results illustrate the positive response of financial markets to carbon disclosures which can offset the uncertainty due to the climate policy. This work shows positive economic incentives for companies to make persistent carbon disclosures.
+abstract: This paper conducts an empirical analysis of the impact of China’s national and regional Emissions Trading Scheme (ETS) on the ﬁnancial performance of listed companies. A comprehensive dataset is constructed, encompassing ﬁrm-level carbon allowance data and ﬁrm-level emission data from July 2021 to December 2022. Our ﬁndings indicate that, in the initial years of China’s ETS implementation, companies participating in the national ETS experienced a statistically signiﬁcant superior performance compared to non-participating ﬁrms due to excess free carbon emission allowances. Results also show that National ETS resulted in a statistically signiﬁcant reduction in emissions of regulated companies. Nevertheless, involvement in the regional ETS yielded no discernible e↵ect on the ﬁnancial and environmental performance of regulated entities. The outcomes reveal the existence of a substantial and statistically signiﬁcant ”over-allocation of carbon allowances,” predominantly attributable to increased non-operational income of regulated companies in China’s national ETS.
 # Summary. An optional shortened abstract.
-summary: The Impact of Carbon Disclosure on Company Financial Performance. (National Outstanding Award of National University Student Energy Economy Academic Creativity Competition (Top 5 in China)) (Working Paper)
+summary: This paper conducts an empirical analysis of the impact of China’s national and regional Emissions Trading Scheme (ETS) on the ﬁnancial performance of listed companies. (Working Paper)
 
 tags: []
 
