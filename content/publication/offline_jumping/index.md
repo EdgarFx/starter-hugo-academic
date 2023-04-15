@@ -41,7 +41,7 @@ summary: Modified version of QLSTM with linear layers for carbon price forecasti
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
