@@ -17,11 +17,11 @@ authors:
 #   - 'Equal contribution'
 
 
-date: '2022-06-17T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-17T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +40,7 @@ summary: 2022 Carbon Rating Report of China's 100 Overseas Listed Companies whic
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
