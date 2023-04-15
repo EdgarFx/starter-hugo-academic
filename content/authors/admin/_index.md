@@ -19,7 +19,7 @@ bio: My research interests include quadruped robot, bipedal robot and Reinforcem
 # Interests to show in About widget
 interests:
   - Deep Learning
-  - Computer Vision (Visual-SLAM)
+  - Computer Vision (SLAM, 3D Reconstruction, Navigation)
   - Robotics (Modular Robotics)
 
 # Education to show in About widget
@@ -74,8 +74,7 @@ As an undergraduate student, I hope to broaden my horizons and learn knowledge i
 1. Carbon Market (ESG evaluation system, carbon disclosure and carbon quotas, policy analysis);
 2. Power Systems (fault diagnosis, modeling simulation, electricity market);
 3. Quantum Computing (quantum machine learning and quantum optimization);
-4. Neuromorphic Computing (Deep learning-based EEG-driven auditory attention);
-5. Computer Vision (3D reconstruction, SLAM, SfM, table recognition);
+4. Computer Vision (3D reconstruction, SLAM, SfM, table recognition);
 
 Currently I find myself very interested in deep learning and its applications in engineering, such as robotics. I am now focusing on the field of robotics and computer vision, and will participate the Robotics Institute Summer Scholar program (RISS) at Carnegie Mellon University this summer.
 
