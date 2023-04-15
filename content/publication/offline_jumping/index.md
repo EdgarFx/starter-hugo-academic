@@ -28,7 +28,7 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: Quantum Machine Intelligence (Under Review)
@@ -36,7 +36,7 @@ publication: Quantum Machine Intelligence (Under Review)
 
 abstract: Accurate carbon price forecasting is important for investors and policymakers to make decisions in the carbon market. With the development of quantum computing in recent years, quantum machine learning has shown great potential in a wide range of areas. This paper proposes a hybrid quantum computing based carbon price forecasting framework using an improved quantum machine learning model. The proposed Linear-layer-enhanced Quantum Long Short-Term Memory (L-QLSTM) model employs the linear layers before and after the variational quantum circuits of Quantum Long ShortTerm  Memory (QLSTM), to extract features, reduce the number of quantum bits and amplify the quantum advantages. The parameter sharing method of the linear layer and the strongly entangled controlled-Z quantum circuit of the variational layer are applied to solve the model overfftting problem and improve the learning performance respectively. We test and evaluate the L-QLSTM based on the practical data of European Union Emission Trading from 2017 to 2020. Resultsshow that the proposed L-QLSTM method can greatly improve the learning accuracy compared to the QLSTM method and achieve a close result with the LSTM model.
 # Summary. An optional shortened abstract.
-# summary: Heuristic-based offline jumping framework
+summary: Modified version of QLSTM with linear layers for carbon price forecasting.
 
 tags: []
 
