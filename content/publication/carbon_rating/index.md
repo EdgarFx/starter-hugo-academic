@@ -1,5 +1,5 @@
 ---
-title: '2022 Carbon Rating Report of China's 100 Overseas Listed Companies'
+title: "2022 Carbon Rating Report of China's 100 Overseas Listed Companies"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
