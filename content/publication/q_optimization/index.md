@@ -40,7 +40,7 @@ summary: QAOA-based power system fault diagnosis with proposed efficient quantum
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
