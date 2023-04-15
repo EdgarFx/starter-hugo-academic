@@ -29,7 +29,7 @@ education:
       institution: University of California, Berkeley
       year: 2023 spring term
     - course: B.Eng. in Computer Science and Engineering
-      institution: The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+      institution: The Chinese University of Hong Kong, Shenzhen
       year: 2020-2024
 
 # Social/Academic Networking

@@ -1,80 +1,78 @@
 ---
-title: 'GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots'
+title: 'Simulation Modeling Analysis of Carbon-Electricity Market in the Context of Carbon Neutrality'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Gilbert Feng
-  - Hongbo Zhang
-  - Zhongyu Li
-  - Xue Bin Peng
-  - Bhuvan Basireddy
+  - Ronggen Wang
+  - Ping Zhao
+  - Tianyou Xie
+  - Weiling Wu
+  - Xin Sun
+  - Wenxuan Liu
+  - Binghao He
   - Admin
-  - Zhitao Song
-  - Lizhi Yang
-  - Yunhui Liu
-  - Koushil Sreenath
-  - Sergey Levine
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 
-date: '2022-09-13T00:00:00Z'
+# date: '2022-09-13T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-13T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CoRL 2022*
-publication_short: In *CoRL*
+publication: Journal of Electric Power Science and Technology
+# publication_short: In *CoRL*
 
-abstract: Recent years have seen a surge in commercially-available and affordable quadrupedal robots, with many of these platforms being actively used in research and industry. As the availability of legged robots grows, so does the need for controllers that enable these robots to perform useful skills. However, most learning-based frameworks for controller development focus on training robot-specific controllers, a process that needs to be repeated for every new robot. In this work, we introduce a framework for training generalized locomotion (GenLoco) controllers for quadrupedal robots. Our framework synthesizes general-purpose locomotion controllers that can be deployed on a large variety of quadrupedal robots with similar morphologies. We present a simple but effective morphology randomization method that procedurally generates a diverse set of simulated robots for training. We show that by training a controller on this large set of simulated robots, our models acquire more general control strategies that can be directly transferred to novel simulated and real-world robots with diverse morphologies, which were not observed during training.
+abstract: This paper studied carbon market clearing, electricity market clearing, and computable general equilibrium (CGE) models to simulate carbon, electricity, and macro-economy systems. A hybrid experimental learning method is applied to simulate the carbon-electricity market, which solves the macro-scale problems from the conflict between electricity market price reduction and carbon emission cost, and the micro-scale problems from the different decision time scales. Based on the simulation framework, we can study the electricity market forecasting analysis techniques. Based on the Guangdong trial spot market, a case study on a 3-bus electricity market is launched to test the proposed method's adaption in the bidding behavior modeling of the electricity market. Moreover, a CGE experiment finds out that the carbon market can reduce the emission amount of the eight industries. And the carbon price can affect each industry's emission amount, however, it has little effect on the total amount.
 # Summary. An optional shortened abstract.
-summary: A framework for training generalized locomotion (GenLoco) controllers for quadrupedal robots.
+# summary: A framework for training generalized locomotion (GenLoco) controllers for quadrupedal robots.
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2209.05309'
-url_code: 'https://github.com/HybridRobotics/GenLoco'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/5QUs32MjNu4'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**HongBo**](https://github.com/LifelongYuan)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**HongBo**](https://github.com/LifelongYuan)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-research:
-  - RL-Based Locomotion Control
+# research:
+#   - RL-Based Locomotion Control
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
