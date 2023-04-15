@@ -14,7 +14,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quadruped robot, bipedal robot and Reinforcement Learning.
+bio: My research interests include SLAM, 3D Reconstruction, Navigation and Modular Robotics.
 
 # Interests to show in About widget
 interests:
