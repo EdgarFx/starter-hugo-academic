@@ -1,12 +1,14 @@
 ---
-title: 'Quantum Computing Based Power System Fault Diagnosis with QAOA and Efficient Gate Decomposition'
+title: 'Carbon Disclosure Effect, Corporate Fundamentals, and Net-zero Emission Target: Evidence from China'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Admin
-  - Huan Zhao
+  - Xiyuan Zhou
+  - Xinlei Wang
+  - Xiang Fei
+  - Bohui Zhang
   - Junhua Zhao
 
 # Author notes (optional)
@@ -17,11 +19,11 @@ authors:
 #   - ''
 
 
-date: '2023-04-15T00:00:00Z'
+date: '2023-04-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-04-15T00:00:00Z'
+publishDate: '2023-04-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,9 +35,9 @@ publication_types: ['3']
 # publication: In *JFR 2022*
 # publication_short: In *JFR*
 
-abstract: Power system fault diagnosis helps to reproduce the fault process and provide the dispatchers with a basis for fault decision-making. However, classical methods suffer from significant time-consuming, memory overhead, and computational complexity issues, especially in the case of many grid devices and large scales. Nowadays, with the continuous development of quantum computing, the optimal solution method based on quantum computing is expected to solve this problem. This paper proposes a power system fault diagnosis method based on Quantum Approximate Optimization Algorithm (QAOA) for the first time. The proposed method uses the Ising model to construct the problem Hamiltonian, which completely preserves the coupling relationship between the faulty components and the operation of PR and CB, and considers the failed/mal operation of PR and CB, as well as the wrong alarm. In addition, this paper proposes the symmetric equivalent decomposition of the multi-z-rotation gate, which can efficiently solve the PUBO problem under the current equipment limitations using QAOA. The paper also reduces the required number of qubits through the small probability events characteristic of the power system. Case studies based on an example system were conducted, which demonstrate the effectiveness of the proposed method. Moreover, experiments show that the quantum algorithm may have a faster speed than the classical algorithm.
+abstract: Under the national net-zero emission target, carbon disclosure becomes more significant for investors to evaluate corporate climate risk in formulating investing strategies. This study examines the causal relationship between carbon disclosure behaviour and company fundamentals to determine the impact of carbon disclosure on a company's financial performance. Additionally, we explore the association between company stock market performance, carbon disclosure behaviour and the establishment of China's national/regional emission trading systems (ETS). With artificial intelligence tools such as natural language processing and optical character recognition, we established a database of 4336 Chinese A-share listed companies' emission disclosure information from 2017 to 2022. Evidence shows that carbon disclosure raises companies' return rates, return on equity and Tobin's Q while decreasing stock price volatility. Our results also indicate that the stringent climate policy increases the potential climate risk of companies, e.g., the establishment of the national ETS and dual-carbon policy in China. Empirical results illustrate the positive response of financial markets to carbon disclosures which can offset the uncertainty due to the climate policy. This work shows positive economic incentives for companies to make persistent carbon disclosures.
 # Summary. An optional shortened abstract.
-summary: QAOA-based power system fault diagnosis with proposed efficient quantum gate decomposition.
+summary: The Impact of Carbon Disclosure on Company Financial Performance.
 
 tags: []
 
