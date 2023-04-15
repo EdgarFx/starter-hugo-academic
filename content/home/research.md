@@ -27,12 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Optimal Control
-      tag: Optimal Control
-    - name: Reinforcement Learning
-      tag: Reinforcement Learning
-    - name: Legged Robot
-      tag: Legged Robot
+    - name: Computer Vision and Robotics
+      tag: Computer Vision and Robotics
+    - name: Quantum Computing
+      tag: Quantum Computing
+    - name: Power System
+      tag: Power System
+    - name: Carbon Market
+      tag: Carbon Market
     - name: Other
       tag: Demo
 
