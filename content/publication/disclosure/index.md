@@ -7,7 +7,7 @@ title: 'Carbon Disclosure Effect, Corporate Fundamentals, and Net-zero Emission 
 authors:
   - Xiyuan Zhou
   - Xinlei Wang
-  - Xiang Fei
+  - Admin
   - Bohui Zhang
   - Junhua Zhao
 
