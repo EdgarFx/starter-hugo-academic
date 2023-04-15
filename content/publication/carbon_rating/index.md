@@ -7,16 +7,16 @@ title: "2022 Carbon Rating Report of China's 100 Overseas Listed Companies"
 authors:
   - (Academic Board)
   - Junhua Zhao 
-  - etc.
+  - etc
   - (Advisory Board) 
   - Zhaoyang Dong 
-  - etc.
+  - etc
   - (Executive Board) 
   - Xinlei Wang 
-  - etc.
+  - etc
   - (Data Analysis Team) 
   - Admin
-  - etc.
+  - etc
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
