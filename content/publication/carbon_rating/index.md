@@ -5,10 +5,18 @@ title: "2022 Carbon Rating Report of China's 100 Overseas Listed Companies"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - (Academic Board) Junhua Zhao
-  - (Advisory Board) Zhaoyang Dong
-  - (Executive Board) Xinlei Wang
-  - (Data Analysis Team) Admin
+  - (Academic Board)
+  - Junhua Zhao 
+  - etc.
+  - (Advisory Board) 
+  - Zhaoyang Dong 
+  - etc.
+  - (Executive Board) 
+  - Xinlei Wang 
+  - etc.
+  - (Data Analysis Team) 
+  - Admin
+  - etc.
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
