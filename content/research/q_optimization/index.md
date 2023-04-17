@@ -1,5 +1,5 @@
 ---
-title: Quantum Computing Based Power System Fault Diagnosis with QAOA and Efficient Gate Decomposition
+title: Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition
 summary: QAOA-based power system fault diagnosis with proposed efficient quantum gate decomposition.
 tags:
   - Quantum Computing
