@@ -76,7 +76,7 @@ As an undergraduate student, I hope to broaden my horizons and learn knowledge i
 3. Quantum Computing (quantum machine learning and quantum optimization);
 4. Computer Vision (3D reconstruction, SLAM, SfM, table recognition);
 
-Currently I find myself very interested in deep learning and its applications in engineering, such as robotics. I am now focusing on the field of robotics and computer vision, and will participate the Robotics Institute Summer Scholar program (RISS) at Carnegie Mellon University this summer.
+Currently I find myself very interested in deep learning and its applications in engineering, such as robotics. I am now focusing on the field of robotics and computer vision, and will participate the Robotics Institute Summer Scholar program (RISS) at Carnegie Mellon University, working at the Biorobotics Lab under the guidance of Dr.Howie Choset this summer.
 
 In addition to academic research, I have an entrepreneurial experience (Shenzhen TeaBreak Network Technology Co., Ltd.), and as the head of the back-end development department, I participated in the development of multiple products. Github Link: https://github.com/TeaBreak-Tech.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Simple CV{{< /staticref >}}.
