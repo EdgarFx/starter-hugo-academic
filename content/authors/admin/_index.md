@@ -14,13 +14,13 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include SLAM, 3D Reconstruction, Navigation and Modular Robotics.
+bio: My current research interests include SLAM, 3D Reconstruction, Navigation, Robotics, Dynamic Systems and Optimal Control.
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
   - Computer Vision (SLAM, 3D Reconstruction, Navigation)
   - Robotics (Modular Robotics)
+  - Dynamic Systems and Optimal Control
 
 # Education to show in About widget
 education:
