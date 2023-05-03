@@ -9,7 +9,6 @@ authors:
   - Xiyuan Zhou
   - Admin
   - Wenxuan Liu
-  - Bohui Zhang
   - Junhua Zhao
 
 # Author notes (optional)
