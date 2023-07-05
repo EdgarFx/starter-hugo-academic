@@ -49,12 +49,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/TravisCao/L-QLSTM'
+url_dataset: 'https://github.com/TravisCao/L-QLSTM/tree/master/data'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://link.springer.com/article/10.1007/s42484-023-00115-2'
 url_video: ''
 
 # Featured image
