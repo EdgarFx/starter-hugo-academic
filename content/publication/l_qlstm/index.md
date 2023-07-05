@@ -18,11 +18,11 @@ authors:
 #   - 'Equal contribution'
 
 
-date: '2023-05-14T00:00:00Z'
+date: '2023-07-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-05-14T00:00:00Z'
+publishDate: '2023-07-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -48,13 +48,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/article/10.1007/s42484-023-00115-2'
 url_code: 'https://github.com/TravisCao/L-QLSTM'
 url_dataset: 'https://github.com/TravisCao/L-QLSTM/tree/master/data'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/article/10.1007/s42484-023-00115-2'
+url_source: ''
 url_video: ''
 
 # Featured image
