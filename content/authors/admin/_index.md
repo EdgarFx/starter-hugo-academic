@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-Undergraduate student majoring in Computer Science and Engineering, The Chinese University of Hong Kong, Shenzhen. Research scholar at Carnegie Mellon University (23 summer). Visiting student at UC Berkeley as a visiting student (23 spring). Looking for a Ph.D. position in 24 Fall.
+Undergraduate student majoring in Computer Science and Engineering, The Chinese University of Hong Kong, Shenzhen. Research scholar at Carnegie Mellon University (23 summer). Visiting student at UC Berkeley(23 spring). Looking for a Ph.D. position in 24 Fall.
 
 As an undergraduate student, I hope to broaden my horizons and learn knowledge in various fields so as to find my real interest. Therefore, my previous research areas covered a wide range from economics to computer science and engineering, including:
 1. Carbon Market (ESG evaluation system, carbon disclosure and carbon quotas, policy analysis);
