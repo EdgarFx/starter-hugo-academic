@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Summer Scholar of CMU
+    company: CMU - Biorobotics Lab
+    company_url: ''
+    company_logo: cmu
+    location: Pittsburgh
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+        Mentor: Dr. Howie Choset
+
+        Research:
+        * Multi-sensor SLAM 
+
+
   - title: Research Assistant of CUHKSZ
     company: CUHKSZ - Lab of Energy Internet
     company_url: ''
