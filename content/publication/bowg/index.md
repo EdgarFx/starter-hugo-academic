@@ -5,7 +5,7 @@ title: "Bag-of-Word-Groups (BoWG): A Robust Loop Closure Module for In-pipe Visu
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xiang Fei
+  - Admin
   - Tina Tian
   - Lu Li
   - Howie Choset
