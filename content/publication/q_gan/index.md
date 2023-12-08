@@ -38,7 +38,7 @@ publication: Energy Conversion and Economics (Under Review)
 
 abstract: Accurately and efficiently estimating carbon market risk is paramount for ensuring financial stability, promoting environmental sustainability, and facilitating informed decisionmaking. Although classical risk estimation methods are extensively utilized, the implicit pre-assumptions about distribution are predominantly contained and challenging to balance accuracy and computational efficiency. A quantum computing-based carbon market risk estimation framework is proposed to address this issue with the quantum conditional generative adversarial networks-quantum amplitude estimation (QCGAN-QAE) algorithm. Specifically, QCGAN is employed to simulate the future distribution of the generated loss rate, whereas QAE is applied to measure the distribution. Also, the quantum circuit of the QCGAN improved by reordering the data entanglement layer and data rotation layer, coupled with the introduction of the quantum fully connected layer. And the binary search method is incorporated into the QAE to bolster the computational efficiency. The simulation results based on the European Union Emissions Trading System manifest that the proposed framework markedly enhances the efficiency and precision of Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) compared to original methods. 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: ' '
 
 tags: []
 
