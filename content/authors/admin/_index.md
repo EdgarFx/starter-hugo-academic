@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiang (Edgar) Fei
+title: Xiang Fei
 
 # Is this the primary user of the site?
 superuser: true
