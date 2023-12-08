@@ -38,7 +38,7 @@ publication: Applied Energy (Under Review)
 
 abstract: Power system fault diagnosis is crucial for identifying the location and causes of the fault process and providing fault decision-making basis for the dispatchers. However, classical methods suffer from significant time-consuming, memory overhead, and computational complexity issues as the scale of system increases. With the rapid development of quantum computing technology, the combinatorial optimization solution method based on quantum computing has shown certain advantages in computational time. Therefore, this paper proposes a quantum computing based power system fault diagnosis method with Quantum Approximate Optimization Algorithm (QAOA). The proposed method uses the Ising model to construct the problem Hamiltonian, which completely preserves the coupling relationship between the faulty components and the various operations of protective relays (PR) and circuit breakers (CB). Additionally, the symmetric equivalent decomposition of the multi-z-rotation gate is proposed to enhance the problem-solving efficiency under current equipment limitations. Furthermore, a method to reduce the number of qubits required by quantum computing is proposed, which utilizes the small probability events characteristic of the power system. The simulation results based on a test system show that proposed methods can achieve the same optimal results and have a faster speed than the classical algorithm.
 # Summary. An optional shortened abstract.
-summary: false
+summary: ''
 
 tags: []
 
