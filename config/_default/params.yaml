@@ -9,7 +9,7 @@ appearance:
   theme_day: ocean
   theme_night: ocean
   font: classic
-  font_size: L
+  font_size: S
 
 # SEO
 
