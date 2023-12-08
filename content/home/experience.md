@@ -32,25 +32,15 @@ experience:
     description: |2-
         Mentor: Dr. Howie Choset
 
-        Research:
-        * Confined-space SLAM
-        * 3D Reconstruction 
-
-
   - title: Research Assistant of CUHKSZ
     company: CUHKSZ - Energy Internet Lab
     company_url: ''
     company_logo: cuhksz
     location: Shenzhen
-    date_start: '2022-03-01'
+    date_start: '2021-12-02'
     date_end: ''
     description: |2-
         Mentor: Dr. Junhua Zhao
-
-        Research:
-        * Carbon Market (ESG evaluation system, carbon disclosure and carbon quotas, policy analysis);
-        * Power Systems (fault diagnosis, modeling simulation, electricity market);
-        * Quantum Computing (quantum machine learning and quantum optimization).
 
   - title: Undergraduate Researcher of UC Berkeley
     company: UC Berkeley - BAIR Lab
@@ -59,7 +49,8 @@ experience:
     location: Berkeley, CA
     date_start: '2023-03-01'
     date_end: '2023-05-20'
-    description: Research Project - SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California).
+    description: |2-
+        Mentor: Dr. Chih-Yuan Chiu and Prof. Somil Bansal
 
 
   - title: Undergraduate Researcher of Human Language Technology Laboratory
@@ -71,8 +62,7 @@ experience:
     date_end: '2023-02-01'
     description: |2-
         Mentor: Dr. Haizhou Li
-        
-        Research Project: EEG-driven Auditory Attention.
+
 
   - title: Computer Vision Algorithm Engineer
     company: Winning Health Technology Group Co.,Ltd
@@ -81,7 +71,7 @@ experience:
     location: Shanghai
     date_start: '2022-07-01'
     date_end: '2022-09-01'
-    description: Responsible for the 3D reconstruction of the gastrointestinal tract with a monocular endoscope as a computer vision engineer.
+    description: ''
 
   - title: Teaching Assistant of CUHKSZ (Discrete Mathematics)
     company: CUHKSZ
@@ -90,7 +80,7 @@ experience:
     location: Shenzhen
     date_start: '2022-09-01'
     date_end: '2022-12-01'
-    description: Teach Tutorials of Discrete Mathematics Course in CUHKSZ.
+    description: ''
 
   - title: Undergraduate Researcher of AIRS
     company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
@@ -102,10 +92,6 @@ experience:
     description: |2-
         Mentor: Dr. Junhua Zhao
 
-        Research:
-        * Quantum Approximate Optimization Algorithm
-        * Power System Fault Diagnosis
-
 
   - title: Back-end Developer (Department Head)
     company: Shenzhen TeaBreak Network Technology Co., Ltd
@@ -114,9 +100,7 @@ experience:
     location: Shenzhen
     date_start: '2020-12-01'
     date_end: '2022-01-01'
-    description: |2-
-        My entrepreneurial experience, and as the head of the back-end development department, I participated in the development of multiple products. Github Link: https://github.com/TeaBreak-Tech.
-
+    description: ''
     
 
 design:
