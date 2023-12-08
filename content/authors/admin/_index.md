@@ -18,7 +18,7 @@ bio: My current research interests include SLAM, 3D Reconstruction, and Robot Na
 
 # Interests to show in About widget
 interests:
-  - Simultaneous Localization and Mapping (SLAM)
+  - Simultaneous Localization and Mapping
   - 3D Reconstruction
   - Robot Navigation
   - Quantum Science and Engineering
@@ -27,8 +27,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - institution: University of California, Berkeley
-      course: Visiting Student
+    - course: Visiting Student
+      institution: University of California, Berkeley
       year: 2023 spring
     - course: B.Eng. in Computer Science and Engineering
       institution: The Chinese University of Hong Kong, Shenzhen
