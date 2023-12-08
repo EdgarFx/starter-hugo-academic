@@ -1,16 +1,16 @@
 ---
-title: 'Power System Fault Diagnosis with Quantum Computing and Efficient Gate Decomposition'
+title: 'Carbon Market Risk Estimation Using Quantum Generative Adversarial Network and Amplitude Estimation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Admin
-  - Huan Zhao
   - Xiyuan Zhou
+  - Huan Zhao
+  - Yuji Cao
+  - Admin
+  - Gaoqi Liang
   - Junhua Zhao
-  - Ting Shu
-  - Fushuan Wen
 
 # Author notes (optional)
 # author_notes:
@@ -33,10 +33,10 @@ publishDate: '2023-04-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Applied Energy (Under Review)
+publication: Energy Conversion and Economics (Under Review)
 # publication_short: In *JFR*
 
-abstract: Power system fault diagnosis is crucial for identifying the location and causes of the fault process and providing fault decision-making basis for the dispatchers. However, classical methods suffer from significant time-consuming, memory overhead, and computational complexity issues as the scale of system increases. With the rapid development of quantum computing technology, the combinatorial optimization solution method based on quantum computing has shown certain advantages in computational time. Therefore, this paper proposes a quantum computing based power system fault diagnosis method with Quantum Approximate Optimization Algorithm (QAOA). The proposed method uses the Ising model to construct the problem Hamiltonian, which completely preserves the coupling relationship between the faulty components and the various operations of protective relays (PR) and circuit breakers (CB). Additionally, the symmetric equivalent decomposition of the multi-z-rotation gate is proposed to enhance the problem-solving efficiency under current equipment limitations. Furthermore, a method to reduce the number of qubits required by quantum computing is proposed, which utilizes the small probability events characteristic of the power system. The simulation results based on a test system show that proposed methods can achieve the same optimal results and have a faster speed than the classical algorithm.
+abstract: Accurately and efficiently estimating carbon market risk is paramount for ensuring financial stability, promoting environmental sustainability, and facilitating informed decisionmaking. Although classical risk estimation methods are extensively utilized, the implicit pre-assumptions about distribution are predominantly contained and challenging to balance accuracy and computational efficiency. A quantum computing-based carbon market risk estimation framework is proposed to address this issue with the quantum conditional generative adversarial networks-quantum amplitude estimation (QCGAN-QAE) algorithm. Specifically, QCGAN is employed to simulate the future distribution of the generated loss rate, whereas QAE is applied to measure the distribution. Also, the quantum circuit of the QCGAN improved by reordering the data entanglement layer and data rotation layer, coupled with the introduction of the quantum fully connected layer. And the binary search method is incorporated into the QAE to bolster the computational efficiency. The simulation results based on the European Union Emissions Trading System manifest that the proposed framework markedly enhances the efficiency and precision of Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) compared to original methods. 
 # Summary. An optional shortened abstract.
 summary: false
 
@@ -72,7 +72,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 research:
-  - q_optimization
+  - q_gan
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
