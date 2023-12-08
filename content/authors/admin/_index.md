@@ -47,13 +47,14 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=HFN65ugAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/EdgarFx
+    link: https://github.com/EdgarFx/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/xiang-fei/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    title: CV
   # - icon: zhihu
   #   icon_pack: fab
   #   link: https://www.zhihu.com/people/xfb-4-76
@@ -75,7 +76,6 @@ highlight_name: true
 
 I am a senior-year undergraduate student at The Chinese University of Hong Kong, Shenzhen (CUHKSZ), majoring in computer science and engineering. I'm fortunate to join Energy Internet Lab and AIRS at CUHKSZ from 2021, supervised by Prof. Junhua Zhao. Currently, I am a research intern in the Biorobotics Lab at Carnegie Mellon University, mentored by Prof. Howie Choset.
 
-During my time at Energy Internet Lab and AIRS, my research was focused on Quantum Science and Engineering, and Energy and Sustainability. In addition, I participated in a research project on robot navigation at the BAIR Lab at UC Berkeley this spring, under the guidance of Dr. Chih-Yuan Chiu and Prof. Somil Bansal. I am now engaged in confined-space SLAM and 3D reconstruction at the Biorobotics Lab, and will continue to explore in the field of robotics. In the long run, I am eagar to achieve a robust robotic system that enables long-term autonomous mobility and comprehensive environmental perception and understanding.  
+During my time at Energy Internet Lab and AIRS, my research was focused on Quantum Science and Engineering, and Energy and Sustainability. In addition, I participated in a research project on robot navigation at the BAIR Lab at UC Berkeley this spring, under the guidance of Dr. Chih-Yuan Chiu and Prof. Somil Bansal. I am now engaged in confined-space SLAM and 3D reconstruction at the Biorobotics Lab.
 
 In addition to academic research, I have an entrepreneurial experience (Shenzhen TeaBreak Network Technology Co., Ltd.), and as the head of the back-end development department, I participated in developing multiple products. Github Link: https://github.com/TeaBreak-Tech.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Simple CV{{< /staticref >}}.

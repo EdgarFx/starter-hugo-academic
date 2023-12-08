@@ -33,11 +33,12 @@ experience:
         Mentor: Dr. Howie Choset
 
         Research:
-        * Multi-sensor SLAM 
+        * Confined-space SLAM
+        * 3D Reconstruction 
 
 
   - title: Research Assistant of CUHKSZ
-    company: CUHKSZ - Lab of Energy Internet
+    company: CUHKSZ - Energy Internet Lab
     company_url: ''
     company_logo: cuhksz
     location: Shenzhen
@@ -52,12 +53,12 @@ experience:
         * Quantum Computing (quantum machine learning and quantum optimization).
 
   - title: Undergraduate Researcher of UC Berkeley
-    company: UC Berkeley
+    company: UC Berkeley - BAIR Lab
     company_url: ''
     company_logo: ucb
     location: Berkeley, CA
-    date_start: '2023-04-01'
-    date_end: ''
+    date_start: '2023-03-01'
+    date_end: '2023-05-20'
     description: Research Project - SLAM for Vision-based Navigation, jointly organized by Professors Shankar Sastry (UC Berkeley) and Somil Bansal (University of Southern California).
 
 
@@ -97,13 +98,14 @@ experience:
     company_logo: airs
     location: Shenzhen
     date_start: '2021-12-01'
-    date_end: '2022-12-01'
+    date_end: ''
     description: |2-
         Mentor: Dr. Junhua Zhao
 
         Research:
-        * Carbon Market (ESG evaluation system);
-        * Power Systems (modeling simulation, electricity market).
+        * Quantum Approximate Optimization Algorithm
+        * Power System Fault Diagnosis
+
 
   - title: Back-end Developer (Department Head)
     company: Shenzhen TeaBreak Network Technology Co., Ltd
