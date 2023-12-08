@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: uploads/bowg.pdf
 url_code: ''
 url_dataset: ''
 url_poster: 'https://docs.google.com/presentation/d/1Fttcj0lzZ_AiARmjTG51l_Mxh_Jk9hSI/edit?usp=sharing&ouid=110083063639360259216&rtpof=true&sd=true'
