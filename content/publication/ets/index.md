@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Carbon Disclosure Effect, Corporate Fundamentals, and Net-zero Emission Target: Evidence from China'
 
 # Authors
@@ -79,4 +79,4 @@ research:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
----
+--- -->

@@ -28,12 +28,12 @@ publishDate: '2023-08-04T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Robotics Institute Summer Scholar’ Working Papers Journal 2023
+publication: Carnegie Mellon Robotics Institute Summer Scholars Working Papers Journal 2023
 # publication_short: In *IROS*
 
 abstract: In-pipe simultaneous localization and mapping (SLAM) techniques with photorealistic RGB-D reconstruction capability have the potential to enhance human labor to inspect pipe conditions and localize anomalies, thereby preventing hazardous leaks and explosions. Loop closure detection is vital in the process of SLAM, as it helps reduce the accumulative drift of the robot’s estimated odometry and generate a globally consistent map. However, in confined-space environments such as narrow pipes, conventional loop closure methods suffer perceptual aliasing due to feature scarcity and textural repetitiveness. In this research, we aim to develop a robust loop closure module in confined-space environments on top of our prior confined-space dense RGB-D SLAM method, visual-laser-inertial (VLI) SLAM. Specifically, we define the concept of word group based on spatial proximity and positions of features and propose to build and maintain a novel loop closure detection module called Bag-of-Word-Groups (BoWG) online, which provides context-specific feature representation. Besides, we utilize Gaussian pyramids to implement Multi-scale Good Features To Track (MS-GFTT) to detect richer features at various scales for word group analysis. Our method does not require any extra sensor other than a monocular visual camera and can be easily integrated into existing Bag-of-Words (BoW) methods. To validate the proposed method, we conduct real-world experiments in a narrow, feature-sparse pipeline with loops. Experiment results show that our method is robust and can achieve high precision while maintaining acceptable recall when the perceptual aliasing problem is serious. In addition, the proposed method has the potential to be applied to environments other than narrow pipes.
 # Summary. An optional shortened abstract.
-summary: A feature detector capable of detecting features at different scales based on an image pyramid. A definition of word groups exploiting the spatial co-occurrence of detected features, which provides context-specific feature representation. A database is established and updated online storing the word group information of each image, which enables efficient loop closure score computation.
+# summary: A feature detector capable of detecting features at different scales based on an image pyramid. A definition of word groups exploiting the spatial co-occurrence of detected features, which provides context-specific feature representation. A database is established and updated online storing the word group information of each image, which enables efficient loop closure score computation.
 
 tags: []
 
