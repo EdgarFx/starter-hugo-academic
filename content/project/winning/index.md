@@ -30,7 +30,7 @@ This task involved creating 3D reconstructions of the gastrointestinal tract and
 
 
 <center class="half">
-    <img src="https://media.giphy.com/media/TRSYjA7bffmxDtONdy/giphy.gif" width="370"/> <img src="https://media.giphy.com/media/ZI4METZ0dPjbWVlCOz/giphy.gif" width="370"/>
+    <img src="https://media.giphy.com/media/TRSYjA7bffmxDtONdy/giphy.gif" width="49%"/> <img src="https://media.giphy.com/media/ZI4METZ0dPjbWVlCOz/giphy.gif" width="49%"/>
     <figcaption>
 					 <b>Figure 1.</b> Point cloud obtained by the dense depth estimation; and overlay of the video and the point cloud obtain by COLMAP with the dense feature descriptors .
     </figcaption>
