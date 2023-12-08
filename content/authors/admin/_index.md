@@ -27,8 +27,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Visiting Student, Berkeley Global Access Program
-      institution: University of California, Berkeley
+    - institution: University of California, Berkeley
+      course: Visiting Student
       year: 2023 spring
     - course: B.Eng. in Computer Science and Engineering
       institution: The Chinese University of Hong Kong, Shenzhen
