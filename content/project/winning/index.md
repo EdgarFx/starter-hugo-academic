@@ -128,5 +128,7 @@ The first picture on the left here is a comparison of the feature matching of De
 
 ## References:
 >Dense Depth Estimation: https://arxiv.org/pdf/1902.07766.pdf
+
 >Dense Feature Descriptors: https://arxiv.org/pdf/2003.00619.pdf
+
 >Dense 3D Reconstruction: https://arxiv.org/pdf/2003.08502.pdf
