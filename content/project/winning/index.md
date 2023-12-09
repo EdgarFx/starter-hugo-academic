@@ -24,7 +24,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
 ## Overview
 This task involved creating 3D reconstructions of the gastrointestinal tract and sinus surface using a monocular endoscope. The main goal of this project was to document the endoscopy process in 3D and to help doctors realize a more comprehensive examination. Given the project's emphasis on reconstruction accuracy over real-time operation, I opted to explore methods rooted in Structure from Motion (SfM) instead of Simultaneous Localization and Mapping (SLAM). During the reconstruction process within a structure like the human gastrointestinal tract and sinus surface, various challenges arose, such as textureless image frames, varying lighting conditions, and contaminated frames. To address these issues, I employed learning-based approaches. Utilizing the sparse reconstruction and camera pose obtained by SfM with SIFT as self-supervised signals, I trained a two-branch Siamese network to achieve dense depth estimation and feature descriptors. Following this, depth fusion and surface extraction were performed to reconstruct a highly accurate watertight triangle mesh surface of the gastrointestinal tract and sinus surface. There, I was responsible for methodology conceptualization and code implementation.
 
