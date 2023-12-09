@@ -30,7 +30,18 @@ experience:
     date_start: '2023-06-01'
     date_end: ''
     description: |2-
-        Mentor: Dr. Howie Choset
+        Mentor: Prof. Howie Choset
+
+  - title: Undergraduate Researcher of AIRS
+    company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
+    company_url: ''
+    company_logo: airs
+    location: Shenzhen
+    date_start: '2021-12-01'
+    date_end: ''
+    description: |2-
+        Mentor: Prof. Junhua Zhao
+
 
   - title: Research Assistant of CUHKSZ
     company: CUHKSZ - Energy Internet Lab
@@ -40,7 +51,7 @@ experience:
     date_start: '2021-12-02'
     date_end: ''
     description: |2-
-        Mentor: Dr. Junhua Zhao
+        Mentor: Prof. Junhua Zhao
 
   - title: Undergraduate Researcher of UC Berkeley
     company: UC Berkeley - BAIR Lab
@@ -61,7 +72,7 @@ experience:
     date_start: '2022-09-01'
     date_end: '2023-02-01'
     description: |2-
-        Mentor: Dr. Haizhou Li
+        Mentor: Prof. Haizhou Li
 
 
   - title: Computer Vision Algorithm Engineer
@@ -81,17 +92,6 @@ experience:
     date_start: '2022-09-01'
     date_end: '2022-12-01'
     description: ''
-
-  - title: Undergraduate Researcher of AIRS
-    company: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
-    company_url: ''
-    company_logo: airs
-    location: Shenzhen
-    date_start: '2021-12-01'
-    date_end: ''
-    description: |2-
-        Mentor: Dr. Junhua Zhao
-
 
   - title: Back-end Developer (Department Head)
     company: Shenzhen TeaBreak Network Technology Co., Ltd
