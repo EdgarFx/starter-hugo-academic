@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: 'Simulation Modeling Analysis of Carbon-Electricity Market in the Context of Carbon Neutrality'
 
 # Authors
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: uploads/simulation.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -81,4 +81,4 @@ research:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
---- -->
+---
