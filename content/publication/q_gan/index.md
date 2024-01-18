@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: 'Carbon Market Risk Estimation Using Quantum Generative Adversarial Network and Amplitude Estimation'
 
 # Authors
@@ -80,4 +80,4 @@ research:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
---- -->
+---
