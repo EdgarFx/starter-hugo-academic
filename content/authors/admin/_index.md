@@ -6,12 +6,12 @@ title: Xiang Fei
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate in Computer Science and Engineering
+role: Master of Science in Robotics (MSR)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
-    url: https://www.cuhk.edu.cn/en
+  - name: Carnegie Mellon University
+    url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research interests include SLAM, 3D Reconstruction, and Robot Navigation.
@@ -27,12 +27,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Visiting Student
-      institution: University of California, Berkeley
-      year: 2023 spring
+    - course: M.S. in Robotics
+      institution: Carnegie Mellon University
+      year: 2024-2026
     - course: B.Eng. in Computer Science and Engineering
       institution: The Chinese University of Hong Kong, Shenzhen
       year: 2020-2024
+    - course: Visiting Student
+      institution: University of California, Berkeley
+      year: 2023 spring
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
