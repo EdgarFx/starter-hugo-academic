@@ -78,8 +78,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a senior-year undergraduate student at [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en), majoring in computer science and engineering. I'm fortunate to join [Energy Internet Lab](https://www.zhaojunhua.org/) and [AIRS](https://airs.cuhk.edu.cn/en) at CUHKSZ from 2021, supervised by [Prof. Junhua Zhao](https://www.zhaojunhua.org/). Currently, I am a research intern in the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/), mentored by [Prof. Howie Choset](http://www.cs.cmu.edu/~choset/).
+I am an incoming M.S. in Robotics (MSR) student in the Robotics Institute at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). Before joining CMU, I received my Bachelor's degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en) in 2024. I'm fortunate to work with [Prof. Junhua Zhao](https://www.zhaojunhua.org/) at CUHKSZ. I also spent an exciting summer in 2023 as a research intern at the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at CMU, mentored by [Prof. Howie Choset](http://www.cs.cmu.edu/~choset/).
 
-During my time at Energy Internet Lab and AIRS, my research was focused on **Quantum Science and Engineering**, and **Energy and Sustainability**. I am now engaged in **confined-space SLAM** and **3D reconstruction** at the Biorobotics Lab in CMU.
-
-In addition to academic research, I have an entrepreneurial experience (Shenzhen TeaBreak Network Technology Co., Ltd.), and as the head of the back-end development department, I participated in developing multiple products. **Teabreak Github Link**: https://github.com/TeaBreak-Tech.
+My research interests lie in achieving robust robotic systems that enable long-term autonomous mobility and comprehensive environmental perception and understanding with computer vision. My current research focuses on **confined-space SLAM**, **Multi-sensor SLAM** and **3D reconstruction** to obtain photorealistic 3D models in challenging environments.
