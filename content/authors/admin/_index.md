@@ -28,12 +28,12 @@ education:
     - course: M.S. in Robotics
       institution: Carnegie Mellon University
       year: 2024-2026 (expected)
-    - course: B.Eng. in Computer Science and Engineering
-      institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2020-2024
     - course: Visiting Student
       institution: University of California, Berkeley
       year: 2023 spring
+    - course: B.Eng. in Computer Science and Engineering
+      institution: The Chinese University of Hong Kong, Shenzhen
+      year: 2020-2024
 
 
 # Social/Academic Networking
