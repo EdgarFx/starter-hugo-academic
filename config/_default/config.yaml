@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Xiang (Edgar) Fei # Website name
+title: Xiang (Shawn) Fei # Website name
 baseURL: 'https://EdgarFx.github.io/' # Website URL
 
 ############################
