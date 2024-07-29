@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xiangfei@link.cuhk.edu.cn'
+    link: 'mailto:xiangfei@andrew.cmu.edu'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=HFN65ugAAAAJ
