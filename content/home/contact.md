@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xiangfei@cuhk.edu.cn
+  email: xiangfei@andrew.cmu.edu
   phone: (+1)5103877670, (+86)18073163266
 #   address:
 #     street: 450 Serra Mall
