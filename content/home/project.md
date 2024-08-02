@@ -7,7 +7,7 @@ widget: projects
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Other Research Projects
 subtitle: ''

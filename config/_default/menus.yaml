@@ -13,6 +13,9 @@ main:
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
+  - name: News
+    url: '#recent_news'
+    weight: 15
   - name: Publications
     url: '#featured'
     weight: 20
