@@ -9,6 +9,8 @@ cms_exclude: true
 #   4 = Citation
 view: 4
 
+citation_style: mla
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
