@@ -3,7 +3,7 @@
 widget: blank
 headless: true
 active: true
-weight: 40
+weight: 15
 
 title: Recent News
 subtitle:
