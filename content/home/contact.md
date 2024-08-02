@@ -53,7 +53,7 @@ content:
       link: 'https://zoom.com'
   coordinates:
     latitude: '40.4436'
-    longitude: '79.9458'
+    longitude: '-79.9458'
 
 design:
   columns: '2'
