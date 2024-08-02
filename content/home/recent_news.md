@@ -16,3 +16,5 @@ advanced:
   css_class: ""
 
 ---
+
+{{< readfromfile "/content/newslist.dat" 10 >}} 
