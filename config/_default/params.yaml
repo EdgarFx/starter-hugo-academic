@@ -6,8 +6,8 @@
 # Appearance cyberpunk strawberry earth
 
 appearance:
-  theme_day: ocean
-  theme_night: ocean
+  theme_day: earth
+  theme_night: earth
   font: minimal
   font_size: S
 
@@ -95,6 +95,8 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+  publications:
+    citation_style: apa
 
 # Extensions
 
