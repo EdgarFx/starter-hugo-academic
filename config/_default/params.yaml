@@ -6,8 +6,8 @@
 # Appearance cyberpunk strawberry earth
 
 appearance:
-  theme_day: forest
-  theme_night: forest
+  theme_day: mr_robot
+  theme_night: mr_robot
   font: minimal
   font_size: S
 
