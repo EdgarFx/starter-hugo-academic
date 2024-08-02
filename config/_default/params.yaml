@@ -99,7 +99,6 @@ features:
     citation_style: mla
 
 # Extensions
-
 extensions:
   cms:
     branch: main
