@@ -95,8 +95,9 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-  publications:
-    citation_style: mla
+  
+publications:
+  citation_style: mla
 
 # Extensions
 
