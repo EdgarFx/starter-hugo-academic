@@ -2,6 +2,7 @@
 title: Publications
 cms_exclude: true
 
+citation_style: mla
 # View.
 #   1 = List
 #   2 = Compact

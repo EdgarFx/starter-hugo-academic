@@ -96,9 +96,6 @@ features:
     api_key: ''
     zoom: 15
   
-publications:
-  citation_style: mla
-
 # Extensions
 
 extensions:
