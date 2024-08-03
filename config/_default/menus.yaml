@@ -29,7 +29,7 @@ main:
     url: '#contact'
     weight: 50
   - name: Misc
-    url: '#misc'
+    url: '/misc'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
