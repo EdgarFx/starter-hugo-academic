@@ -14,6 +14,10 @@ weight: 20
 title: Publications
 subtitle: ''
 
+publications:
+  date_format: "January 2006"
+  citation_style: "mla"
+
 content:
   # Filter on criteria
   page_type: publication
@@ -33,9 +37,10 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
   # Choose a view for the listings:
-  view: 4
+  view: 3
   columns: '2'
 
 advanced:
