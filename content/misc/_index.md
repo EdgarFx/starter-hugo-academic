@@ -13,6 +13,7 @@ Outside of research, I enjoy:
 - race car, LEGO
 - PC games
 - accompanying my fiancée Waiwai
+- ...
 
 # Photo Gallery
 
