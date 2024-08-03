@@ -6,7 +6,7 @@ active: true
 weight: 15
 
 title: Recent News
-subtitle:
+subtitle: "[All News>>](news)"
 
 design:
   columns: '2'
