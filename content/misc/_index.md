@@ -10,7 +10,8 @@ title: "Miscellaneous"
 Outside of research, I enjoy:
 - basketball
 - hiking and touring
-- race car, LEGO
+- race car
+- LEGO
 - PC games
 - accompanying my fiancée Waiwai
 - ...
