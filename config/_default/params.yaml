@@ -96,6 +96,10 @@ features:
     api_key: ''
     zoom: 15
 
+publications:
+  date_format: "January 2006"
+  citation_style: "mla"
+
 # Extensions
 extensions:
   cms:
