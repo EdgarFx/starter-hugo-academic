@@ -6,6 +6,8 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+active: true
+
 # Order that this section appears on the page.
 weight: 20
 
@@ -14,6 +16,7 @@ subtitle: ''
 
 content:
   # Filter on criteria
+  page_type: publications
   filters:
     folders:
       - publication
@@ -34,6 +37,11 @@ design:
   # Choose a view for the listings:
   view: 3
   columns: '2'
+
+advanced:
+  css_style: ""
+  css_class: ""
+
 ---
 
 
