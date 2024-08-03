@@ -14,9 +14,7 @@ weight: 20
 title: Publications
 subtitle: ''
 
-publications:
-  date_format: "January 2006"
-  citation_style: "mla"
+citation_style: "mla"
 
 content:
   # Filter on criteria
