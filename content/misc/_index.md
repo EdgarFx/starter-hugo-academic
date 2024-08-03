@@ -7,6 +7,13 @@ title: "Miscellaneous"
 
 ---
 
+Outside of research, I enjoy:
+- basketball
+- hiking and touring
+- race car, LEGO
+- PC games
+- accompanying my fiancée Waiwai
+
 # Photo Gallery
 
 {{< gallery dir="img/gallery/" />}} {{< load-photoswipe >}}
