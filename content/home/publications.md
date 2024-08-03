@@ -35,7 +35,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 3
+  view: 4
   columns: '2'
 
 advanced:
