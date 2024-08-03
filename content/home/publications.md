@@ -14,8 +14,6 @@ weight: 20
 title: Publications
 subtitle: ''
 
-citation_style: "mla"
-
 content:
   # Filter on criteria
   page_type: publication
