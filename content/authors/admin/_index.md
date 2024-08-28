@@ -76,8 +76,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a M.S. in Robotics (MSR) student in the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). Before joining CMU, I received my Bachelor's degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en) in 2024. I'm fortunate to work with [Prof. Junhua Zhao](https://www.zhaojunhua.org/) at CUHKSZ. I also spent an exciting summer in 2023 as a research intern at the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at CMU, mentored by [Prof. Howie Choset](http://www.cs.cmu.edu/~choset/).
+I am a M.S. in Robotics (MSR) student in the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Prof. Howie Choset](http://www.cs.cmu.edu/~choset/) at the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php). Before joining CMU, I received my Bachelor's degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en) in 2024.
 
-My research interests lie in achieving robust robotic systems that enable long-term autonomous mobility and comprehensive environmental perception and understanding with computer vision. My current research focuses on **Confined-space SLAM**, **Multi-sensor SLAM** and **3D Reconstruction** to obtain photorealistic 3D models in challenging environments.
+My research interests lie in achieving robust robotic systems that enable long-term autonomous mobility and comprehensive environmental perception and understanding. My current research focuses on **Confined-space SLAM**, **Multi-sensor SLAM** and **3D Reconstruction** to obtain photorealistic 3D models in challenging environments.
 
 Outside of research, I enjoy basketball, hiking and touring, race car, LEGO, PC games, and accompanying my fiancée Waiwai! Check out my [**misc page**](misc/) for more non-research stuff :)
