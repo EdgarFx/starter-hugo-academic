@@ -14,13 +14,13 @@ organizations:
     url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include SLAM, 3D Reconstruction, and Robot Navigation.
+bio: My current research interests include SLAM, 3D Reconstruction, and Deep Learning.
 
 # Interests to show in About widget
 interests:
   - Simultaneous Localization and Mapping
   - 3D Reconstruction
-  - Robot Navigation
+  - Deep Learning
 
 # Education to show in About widget
 education:

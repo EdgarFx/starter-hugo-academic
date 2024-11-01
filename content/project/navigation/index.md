@@ -17,7 +17,7 @@ external_link: ''
 #     name: Follow
 #     url: https://www.zhihu.com/people/yuexiaozhu
 url_code: ''
-url_pdf: 'https://edgarfx.github.io/uploads/uploads/resume.pdf'
+url_pdf: 'https://edgarfx.github.io/uploads/navigation_report.pdf'
 url_slides: ''
 url_video: ''
 
