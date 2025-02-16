@@ -1,4 +1,4 @@
----
+<!-- ---
 title: SLAM for Vision-based Navigation
 summary: Integration of learning-based perception techniques and visual SLAM methods to develop a reliable and efficient autonomous navigation system that can adapt to challenging and unpredictable scenarios with a high success rate.
 
@@ -35,4 +35,4 @@ Specifically, learning-based perception techniques have the ability to successfu
 
 I was honored to directly mentored by Dr. Chih-Yuan Chiu and Prof. Somil Bansal in this project. Our work was based on Prof. Bansal's prior work [LB-WayPtNav](https://smlbansal.github.io/LB-WayPtNav/), which is a learning-based navigation method and can generate some way points to guide the movement of the robot. This method can be used to navigate in novel environments, however, it would generate infeasible paths for some cases such as tight corners and narrow hallways. This is because this method struggles to provide accurate metric reconstruction when necessary (e.g. tight corners, narrow hallways). Meanwhile, visual SLAM algorithms can generate consistent metric maps, but are often computationally expensive to run, and do not provide relevant semantic information. Therefore, we try to establish a pipeline that combines both SLAM and the learning-based method to support an efficient autonomous navigation framework. 
 
-As a proof of concept, we showed that SLAM with particle filtering pairing algorithm and LiDAR information is able to successfully navigate situations that proved challenging for the purely learning based approach presented by Bansal. After that, we designed a switching mechanism that can switch to SLAM from learning based approach when the current scene is challenging, which is based on [reachability analysis](https://arxiv.org/abs/2211.02736).
+As a proof of concept, we showed that SLAM with particle filtering pairing algorithm and LiDAR information is able to successfully navigate situations that proved challenging for the purely learning based approach presented by Bansal. After that, we designed a switching mechanism that can switch to SLAM from learning based approach when the current scene is challenging, which is based on [reachability analysis](https://arxiv.org/abs/2211.02736). -->
