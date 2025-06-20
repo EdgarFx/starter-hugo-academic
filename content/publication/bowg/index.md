@@ -7,8 +7,8 @@ title: "Bag of Word Groups (BoWG): A Robust and Efficient Loop Closure Detection
 authors:
   - Admin
   - Tina Tian
-  - Lu Li
   - Howie Choset
+  - Lu Li
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
