@@ -9,6 +9,7 @@ authors:
   - Xinlei Wang
   - Admin
   - Wenxuan Liu
+  - Bai-Chen Xie
   - Junhua Zhao
 
 # Author notes (optional)
