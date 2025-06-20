@@ -1,11 +1,11 @@
 ---
-title: Bag-of-Word-Groups (BoWG), A Robust Loop Closure Module for In-pipe Visual-Laser-Inertial SLAM
-summary: A feature detector capable of detecting features at different scales based on an image pyramid. A definition of word groups exploiting the spatial co-occurrence of detected features, which provides context-specific feature representation. A database is established and updated online storing the word group information of each image, which enables efficient loop closure score computation.
+title: 'Bag of Word Groups (BoWG): A Robust and Efficient Loop Closure Detection Method Under Perceptual Aliasing'
+summary: A definition of word groups exploiting the co-occurrence and proximity of visual words. This representation enriches the discriminative information of images with similar appearance; An online word group database is designed and implemented, providing context-specific representation. Through the integration of direct and inverse index tables, our system achieves efficient loop closure detection suitable for large-scale applications; Temporal consistency and feature distribution information are incorporated directly into the similarity score calculation, complemented by dedicated temporal and geometrical post-verification modules. These additions further improve the system’s precision and recall.
 
 tags:
   - Computer Vision and Robotics
 
-date: '2023-08-04T00:00:00Z'
+date: '2025-06-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -19,9 +19,9 @@ external_link: ''
 #     icon_pack: fab
 #     name: Follow
 #     url: https://www.zhihu.com/people/yuexiaozhu
-url_code: ''
+url_code: 'https://github.com/EdgarFx/BoWG'
 url_pdf: ''
-url_slides: 'https://docs.google.com/presentation/d/1maY7paywcalkHGTucG-XSmBUghmM3jYc/edit?usp=sharing&ouid=110083063639360259216&rtpof=true&sd=true'
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
@@ -32,4 +32,4 @@ url_video: ''
 #slides: example
 ---
 
-In-pipe simultaneous localization and mapping (SLAM) techniques with photorealistic RGB-D reconstruction capability have the potential to enhance human labor to inspect pipe conditions and localize anomalies, thereby preventing hazardous leaks and explosions. Loop closure detection is vital in the process of SLAM, as it helps reduce the accumulative drift of the robot’s estimated odometry and generate a globally consistent map. However, in confined-space environments such as narrow pipes, conventional loop closure methods suffer perceptual aliasing due to feature scarcity and textural repetitiveness. In this research, we aim to develop a robust loop closure module in confined-space environments on top of our prior confined-space dense RGB-D SLAM method, visual-laser-inertial (VLI) SLAM. Specifically, we define the concept of word group based on spatial proximity and positions of features and propose to build and maintain a novel loop closure detection module called Bag-of-Word-Groups (BoWG) online, which provides context-specific feature representation. Besides, we utilize Gaussian pyramids to implement Multi-scale Good Features To Track (MS-GFTT) to detect richer features at various scales for word group analysis. Our method does not require any extra sensor other than a monocular visual camera and can be easily integrated into existing Bag-of-Words (BoW) methods. To validate the proposed method, we conduct real-world experiments in a narrow, feature-sparse pipeline with loops. Experiment results show that our method is robust and can achieve high precision while maintaining acceptable recall when the perceptual aliasing problem is serious. In addition, the proposed method has the potential to be applied to environments other than narrow pipes.
+Loop closure is critical in Simultaneous Localization and Mapping (SLAM) systems to reduce accumulative drift and ensure global mapping consistency. However, conventional methods struggle in perceptually aliased environments, such as narrow pipes, due to vector quantization, feature sparsity, and repetitive textures, while existing solutions often incur high computational costs. This paper presents Bag-of-Word-Groups (BoWG), a novel loop closure detection method that achieves superior precision-recall, robustness, and computational efficiency. The core innovation lies in the introduction of word groups, which captures the spatial co-occurrence and proximity of visual words to construct an online dictionary. Additionally, drawing inspiration from probabilistic transition models, we incorporate temporal consistency directly into similarity computation with an adaptive scheme, substantially improving precision-recall performance. The method is further strengthened by a feature distribution analysis module and dedicated post-verification mechanisms. To evaluate the effectiveness of our method, we conduct experiments on both public datasets and a confined-pipe dataset we constructed. Results demonstrate that BoWG surpasses state-of-the-art methods—including both traditional and learning-based approaches—in terms of precision-recall and computational efficiency. Our approach also exhibits excellent scalability, achieving an average processing time of 16 ms per image across 17,565 images in the Bicocca25b dataset. The source code is available at: https://github.com/EdgarFx/BoWG.

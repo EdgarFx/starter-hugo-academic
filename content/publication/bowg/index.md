@@ -1,5 +1,5 @@
 ---
-title: "Bag-of-Word-Groups (BoWG): A Robust Loop Closure Module for In-pipe Visual-Laser-Inertial SLAM"
+title: "Bag of Word Groups (BoWG): A Robust and Efficient Loop Closure Detection Method Under Perceptual Aliasing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 
 
-date: '2023-08-04T00:00:00Z'
+date: '2025-06-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-08-04T00:00:00Z'
+publishDate: '2025-10-19T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,10 +28,10 @@ publishDate: '2023-08-04T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Carnegie Mellon Robotics Institute Summer Scholars Working Papers Journal 2023
-# publication_short: In *IROS*
+publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
+publication_short: IROS 2025
 
-abstract: In-pipe simultaneous localization and mapping (SLAM) techniques with photorealistic RGB-D reconstruction capability have the potential to enhance human labor to inspect pipe conditions and localize anomalies, thereby preventing hazardous leaks and explosions. Loop closure detection is vital in the process of SLAM, as it helps reduce the accumulative drift of the robot’s estimated odometry and generate a globally consistent map. However, in confined-space environments such as narrow pipes, conventional loop closure methods suffer perceptual aliasing due to feature scarcity and textural repetitiveness. In this research, we aim to develop a robust loop closure module in confined-space environments on top of our prior confined-space dense RGB-D SLAM method, visual-laser-inertial (VLI) SLAM. Specifically, we define the concept of word group based on spatial proximity and positions of features and propose to build and maintain a novel loop closure detection module called Bag-of-Word-Groups (BoWG) online, which provides context-specific feature representation. Besides, we utilize Gaussian pyramids to implement Multi-scale Good Features To Track (MS-GFTT) to detect richer features at various scales for word group analysis. Our method does not require any extra sensor other than a monocular visual camera and can be easily integrated into existing Bag-of-Words (BoW) methods. To validate the proposed method, we conduct real-world experiments in a narrow, feature-sparse pipeline with loops. Experiment results show that our method is robust and can achieve high precision while maintaining acceptable recall when the perceptual aliasing problem is serious. In addition, the proposed method has the potential to be applied to environments other than narrow pipes.
+abstract: "Loop closure is critical in Simultaneous Localization and Mapping (SLAM) systems to reduce accumulative drift and ensure global mapping consistency. However, conventional methods struggle in perceptually aliased environments, such as narrow pipes, due to vector quantization, feature sparsity, and repetitive textures, while existing solutions often incur high computational costs. This paper presents Bag-of-Word-Groups (BoWG), a novel loop closure detection method that achieves superior precision-recall, robustness, and computational efficiency. The core innovation lies in the introduction of word groups, which captures the spatial co-occurrence and proximity of visual words to construct an online dictionary. Additionally, drawing inspiration from probabilistic transition models, we incorporate temporal consistency directly into similarity computation with an adaptive scheme, substantially improving precision-recall performance. The method is further strengthened by a feature distribution analysis module and dedicated post-verification mechanisms. To evaluate the effectiveness of our method, we conduct experiments on both public datasets and a confined-pipe dataset we constructed. Results demonstrate that BoWG surpasses state-of-the-art methods—including both traditional and learning-based approaches—in terms of precision-recall and computational efficiency. Our approach also exhibits excellent scalability, achieving an average processing time of 16 ms per image across 17,565 images in the Bicocca25b dataset. The source code is available at: https://github.com/EdgarFx/BoWG."
 # Summary. An optional shortened abstract.
 summary: ' '
 
@@ -45,14 +45,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1J1yqCKyU2_TS77nQnJayPduvJtZxuFb5/view'
-url_code: ''
+url_pdf: ''
+url_code: 'https://github.com/EdgarFx/BoWG'
 url_dataset: ''
-url_poster: 'https://docs.google.com/presentation/d/1Fttcj0lzZ_AiARmjTG51l_Mxh_Jk9hSI/edit?usp=sharing&ouid=110083063639360259216&rtpof=true&sd=true'
+url_poster: ''
 url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1maY7paywcalkHGTucG-XSmBUghmM3jYc/edit?usp=sharing&ouid=110083063639360259216&rtpof=true&sd=true'
+url_slides: ''
 url_source: ''
-url_video: 'https://drive.google.com/file/d/1spFpAk-oNTidfoz4TQxxwRUvRthoZibf/view?usp=sharing'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
