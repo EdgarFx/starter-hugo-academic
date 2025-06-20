@@ -32,7 +32,7 @@ publishDate: '2023-04-14T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *JFR 2022*
+publication: Submitted to Journal of Cleaner Production
 # publication_short: In *JFR*
 
 abstract: Against the backdrop of dual carbon targets, China is imposing stricter policies on corporate carbon emissions. Enterprises' adaptability to climate change and green transformation management will have an important impact on the current and future financial performance of enterprises. Therefore, carbon disclosure is crucial as a way for companies to communicate carbon emissions information to investors. With the aid of artificial intelligence tools, we have established a database of emission disclosure information of 4,336 Chinese A-share listed companies from 2017 to 2022. Our results show that carbon disclosure behavior has a positive effect on corporate financial performance. Specifically, carbon disclosure increases firm stock returns, return on equity, and Tobin's Q, while reducing stock price volatility. These conclusions come through a series of robustness tests, including placebo tests, propensity matching scores, and two-stage least-squares models. Furthermore, we have examined the determinants of corporate carbon disclosure and find that environmental policies play a significant role in promoting disclosure. Our research underscores the importance of corporate carbon disclosure in enhancing climate change adaptability and reveals that the financial market responds favorably to companies that actively disclose their carbon emissions in response to environmental policies.
