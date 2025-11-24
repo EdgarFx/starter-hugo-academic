@@ -30,7 +30,7 @@ publishDate: '2026-07-13T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: (Working Paper) Preparing for Robotics: Science and Systems (RSS) 2026
+publication: (Working Paper) Preparing for Robotics Science and Systems (RSS) 2026
 # publication_short: RSS 2026
 
 summary: ' '
