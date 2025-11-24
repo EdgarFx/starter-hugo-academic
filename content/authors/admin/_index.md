@@ -14,12 +14,12 @@ organizations:
     url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include SLAM, 3D Reconstruction, and Deep Learning.
+bio: My current research interests include Robotics, SLAM, and Deep Learning.
 
 # Interests to show in About widget
 interests:
+  - Robotics
   - Simultaneous Localization and Mapping
-  - 3D Reconstruction
   - Deep Learning
 
 # Education to show in About widget
@@ -27,10 +27,10 @@ education:
   courses:
     - course: M.S. in Robotics
       institution: Carnegie Mellon University
-      year: 2024-2026 (expected)
+      year: 2024-2026
     - course: Visiting Student
       institution: University of California, Berkeley
-      year: 2023 spring
+      year: 2023 Spring
     - course: B.Eng. in Computer Science and Engineering
       institution: The Chinese University of Hong Kong, Shenzhen
       year: 2020-2024
