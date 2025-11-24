@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Summer Scholar of CMU
+  - title: Research Assistant of CMU
     company: CMU - Biorobotics Lab
     company_url: ''
     company_logo: cmu
@@ -38,7 +38,7 @@ experience:
     company_logo: airs
     location: Shenzhen
     date_start: '2021-12-01'
-    date_end: ''
+    date_end: '2024-05-01'
     description: |2-
         Mentor: Prof. Junhua Zhao
 
@@ -49,19 +49,9 @@ experience:
     company_logo: cuhksz
     location: Shenzhen
     date_start: '2021-12-02'
-    date_end: ''
+    date_end: '2024-05-01'
     description: |2-
         Mentor: Prof. Junhua Zhao
-
-  - title: Undergraduate Researcher of UC Berkeley
-    company: UC Berkeley - BAIR Lab
-    company_url: ''
-    company_logo: ucb
-    location: Berkeley, CA
-    date_start: '2023-03-01'
-    date_end: '2023-05-20'
-    description: |2-
-        Mentor: Dr. Chih-Yuan Chiu and Prof. Somil Bansal
 
 
   - title: Undergraduate Researcher of Human Language Technology Laboratory

@@ -81,33 +81,33 @@ research:
 This paper presents MAC-VI-Init, a robust and accurate method for VI initialization and online calibration. Traditional approaches often struggle in challenging environments - such as severe illumination changes, dynamic objects, occlusions, and fast motions - due to their reliance on geometric visual features. Our method leverages learning-based feature matching and metrics-aware covariance to robustly estimate visual poses. Moreover, we explicitly compute the covariance of these visual poses to enable more effective joint VI optimization. A learning-based IMU model, AirIMU, can further be incorporated to provide precise IMU corrections and reliable uncertainty estimates for IMU pre-integration. Experiments in challenging scenarios demonstrate that our approach substantially improves the robustness and accuracy compared with existing methods.
 
 ## Video Demos
-These videos illustrate the gravity-direction initialization results (Orange: estimated gravity; Green: ground truth) across different environments. Subsequent localization and mapping are carried out by jointly optimizing the visual pose graph (PGO) together with either standard IMU residuals or those from AirIMU. When AirIMU is used, the localization and mapping system effectively becomes **MACVIO**, a learning-based stereo visual-inertial odometry framework that we are also developing.
+These videos illustrate the gravity-direction initialization results (Orange: estimated gravity; Green: ground truth) across different environments. Subsequent localization and mapping are carried out by jointly optimizing the visual pose graph (PGO) together with either standard IMU residuals or those from AirIMU. When AirIMU is used, the localization and mapping system effectively becomes **MACVIO**, a learning-based stereo visual-inertial odometry that we are also developing.
 
 
 
 
 <div style="margin: 2rem 0;">
-  <h2>Successful Initialization Comparison on V102 Sequence of EuRoC dataset</h2>
+  <h2>Successful Initialization Comparison on V102 Sequence of EuRoC Dataset</h2>
   <img src="featured.png" alt="success" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 <div style="margin: 2rem 0;">
-  <h2>Performance Comparison on EuRoC dataset</h2>
+  <h2>Performance Comparison on EuRoC Dataset</h2>
   <img src="results_euroc.png" alt="euroc_init" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 <div style="margin: 2rem 0;">
-  <h2>Performance of the proposed MAC-VI-Init on TUM and VBR dataset</h2>
+  <h2>Performance of the proposed MAC-VI-Init on TUM and VBR Dataset</h2>
   <img src="results_tum_vbr.png" alt="tum_vbr_init" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 <div style="margin: 2rem 0;">
-  <h2>Gyroscope Bias Estimation Comparison on EuRoC dataset</h2>
+  <h2>Gyroscope Bias Estimation Comparison on EuRoC Dataset</h2>
   <img src="gyro_bias.png" alt="gyro_bias" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 <div style="margin: 2rem 0;">
-  <h2>Pose Covariance Analysis on TartanAir dataset</h2>
+  <h2>Pose Covariance Analysis on TartanAir Dataset</h2>
   <div style="display: flex; flex-direction: column; gap: 5px;">
     <img src="pose_cov_bin.png" alt="Test Site" style="width: 100%; display: block; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <img src="pose_cov_trans.png" alt="Results" style="width: 100%; display: block; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
