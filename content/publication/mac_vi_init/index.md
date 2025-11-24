@@ -21,7 +21,7 @@ date: '2025-11-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-07-13T00:00:00Z'
+publishDate: '2025-11-24T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -78,5 +78,10 @@ research:
 ---
 
 ## Overview
-This paper presents MAC-VI-Init, a robust and accurate VI initialization and online calibration method. Traditional methods are struggled in challenging environments, such as severe illumination changes, dynamic objects, occlusions, and fast motions, due to the limitation of geometric visual features. Our method utilizes the learning-based feature matching and metrics-aware covariances to robustly estimate visual poses. In addition, the covariance of the estimated visual poses is also computed for better VI joint optimization. A learning-based IMU model can be further incorporated, which provides accurate IMU corrections and the uncertainty of IMU pre-integrations. Experiments on challenging scenarios demonstrate that our method significantly improves the robustness and accuracy of VI initialization and mapping.
+This paper presents MAC-VI-Init, a robust and accurate method for VI initialization and online calibration. Traditional approaches often struggle in challenging environments - such as severe illumination changes, dynamic objects, occlusions, and fast motions - due to their reliance on geometric visual features. Our method leverages learning-based feature matching and metrics-aware covariance to robustly estimate visual poses. Moreover, we explicitly compute the covariance of these visual poses to enable more effective joint VI optimization. A learning-based IMU model, AirIMU, can further be incorporated to provide precise IMU corrections and reliable uncertainty estimates for IMU pre-integration. Experiments in challenging scenarios demonstrate that our approach substantially improves the robustness and accuracy compared with existing methods.
 
+
+<div style="margin: 2rem 0;">
+  <h2>Successful Initialization Comparison on V102 Sequence of EuRoC dataset</h2>
+  <img src="featured.png" alt="NC Demo" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
