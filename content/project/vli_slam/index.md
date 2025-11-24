@@ -2,7 +2,7 @@
 title: Visual-Laser-Inertial SLAM for 3D Reconstruction of Confined Pipes
 summary: This work extended a compact, low-cast visual-laser-inertial SLAM-based 3D scanner to narrow pipe environments.
 
-date: '2022-09-01T00:00:00Z'
+date: '2024-11-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
