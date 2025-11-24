@@ -96,19 +96,11 @@ This paper presents Bag-of-Word-Groups (BoWG), a novel loop closure detection me
   <img src="results.png" alt="Performance Compared With Exising Methods" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
-<!-- <div style="margin: 2rem 0;">
-  <h2>Performance on a More Challenging Pipe Environment</h2>
-  <div style="display: flex; gap: 20px;">
-    <img src="test_site.png" alt="Test Site" style="width: 50%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <img src="A_Res.png" alt="Results" style="width: 50%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </div>
-</div> -->
-
 <div style="margin: 2rem 0;">
   <h2>Performance on a More Challenging Pipe Environment</h2>
   <div style="display: flex; gap: 20px;">
-    <img src="test_site.png" alt="Test Site" style="flex: 2; min-width: 0; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <img src="A_Res.png" alt="Results" style="flex: 3; min-width: 0; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="test_site.png" alt="Test Site" style="flex: 1; min-width: 0; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="A_Res.png" alt="Results" style="flex: 1; min-width: 0; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </div>
 </div>
 
@@ -124,11 +116,3 @@ This paper presents Bag-of-Word-Groups (BoWG), a novel loop closure detection me
     Your browser does not support the video tag.
   </video>
 </div>
-
-<!-- <video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-![BoWG vs DBoW2](demo.gif) -->
