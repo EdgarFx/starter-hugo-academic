@@ -83,5 +83,30 @@ This paper presents MAC-VI-Init, a robust and accurate method for VI initializat
 
 <div style="margin: 2rem 0;">
   <h2>Successful Initialization Comparison on V102 Sequence of EuRoC dataset</h2>
-  <img src="featured.png" alt="NC Demo" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="featured.png" alt="success" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
+<div style="margin: 2rem 0;">
+  <h2>Performance Comparison on EuRoC dataset</h2>
+  <img src="results_euroc.png" alt="euroc_init" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
+<div style="margin: 2rem 0;">
+  <h2>Performance of the proposed MAC-VI-Init on TUM and VBR dataset</h2>
+  <img src="results_tum_vbr.png" alt="tum_vbr_init" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
+<div style="margin: 2rem 0;">
+  <h2>Gyroscope Bias Estimation Comparison on EuRoC dataset</h2>
+  <img src="gyro_bias.png" alt="gyro_bias" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
+
+<div style="margin: 2rem 0;">
+  <h2>Pose Covariance Analysis on TartanAir dataset</h2>
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <img src="pose_cov_bin.png" alt="Test Site" style="width: 100%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="pose_cov_trans.png" alt="Results" style="width: 100%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="pose_cov_rot.png" alt="Third Image" style="width: 100%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </div>
 </div>
