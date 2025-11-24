@@ -86,7 +86,6 @@ These videos illustrate the gravity-direction initialization results (Orange: es
 
 
 
-## More Experiment Results
 <div style="margin: 2rem 0;">
   <h2>Successful Initialization Comparison on V102 Sequence of EuRoC dataset</h2>
   <img src="featured.png" alt="success" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -110,8 +109,8 @@ These videos illustrate the gravity-direction initialization results (Orange: es
 <div style="margin: 2rem 0;">
   <h2>Pose Covariance Analysis on TartanAir dataset</h2>
   <div style="display: flex; flex-direction: column; gap: 5px;">
-    <img src="pose_cov_bin.png" alt="Test Site" style="width: 100%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <img src="pose_cov_trans.png" alt="Results" style="width: 100%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <img src="pose_cov_rot.png" alt="Third Image" style="width: 100%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="pose_cov_bin.png" alt="Test Site" style="width: 100%; display: block; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="pose_cov_trans.png" alt="Results" style="width: 100%; display: block; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="pose_cov_rot.png" alt="Third Image" style="width: 100%; display: block; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </div>
 </div>
