@@ -98,9 +98,9 @@ This paper presents Bag-of-Word-Groups (BoWG), a novel loop closure detection me
 
 <div style="margin: 2rem 0;">
   <h2>Performance on a More Challenging Pipe Environment</h2>
-  <div style="display: flex; gap: 20px;">
-    <img src="test_site.png" alt="Test Site" style="width: 50%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <img src="A_Res.png" alt="Results" style="width: 50%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="test_site.png" alt="Test Site" style="flex: 1; max-width: 50%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="A_Res.png" alt="Results" style="flex: 1; max-width: 50%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </div>
 </div>
 
