@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2510.22529'
 url_code: 'https://github.com/EdgarFx/BoWG'
 url_dataset: ''
 url_poster: ''
@@ -76,3 +76,11 @@ research:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
+<video width="100%" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+![BoWG vs DBoW2](demo.gif)
