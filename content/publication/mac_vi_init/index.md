@@ -130,7 +130,7 @@ These videos illustrate the gravity-direction initialization results (Orange: es
 
 <div style="margin: 2rem 0;">
   <h2>Successful Initialization Comparison on V102 Sequence of EuRoC Dataset</h2>
-  <img src="featured.png" alt="success" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="success.png" alt="success" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 <div style="margin: 2rem 0;">
