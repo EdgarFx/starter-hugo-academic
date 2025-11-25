@@ -83,8 +83,50 @@ This paper presents MAC-VI-Init, a robust and accurate method for VI initializat
 ## Video Demos
 These videos illustrate the gravity-direction initialization results (Orange: estimated gravity; Green: ground truth) across different environments. Subsequent localization and mapping are carried out by jointly optimizing the visual pose graph (PGO) together with either standard IMU residuals or those from AirIMU. When AirIMU is used, the localization and mapping system effectively becomes **MACVIO**, a learning-based stereo visual-inertial odometry that we are also developing.
 
+<div style="margin: 2rem 0;">
+  <h3>Lunar Environment (TartanairV2 Dataset)</h3>
+  <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <source src="lunar.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 
+<div style="display: flex; gap: 1rem; margin: 2rem 0;">
+  <div style="flex: 1;">
+    <h3>VBR Colosseo Train 0 (Extreme Exposure)</h3>
+    <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <source src="vbr_light.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  
+  <div style="flex: 1;">
+    <h3>VBR Colosseo Train 0 (Dynamic Scene)</h3>
+    <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <source src="vbr_dynamic.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; margin: 2rem 0;">
+  <div style="flex: 1;">
+    <h3>EuRoC V102</h3>
+    <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <source src="V102.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  
+  <div style="flex: 1;">
+    <h3>EuRoC V203</h3>
+    <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <source src="V203.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
 
 <div style="margin: 2rem 0;">
   <h2>Successful Initialization Comparison on V102 Sequence of EuRoC Dataset</h2>

@@ -174,15 +174,10 @@ $$X_{c0} = -(R^{cl})^T t^{cl}$$
 
 where $X_{c0}$ is the coordinate of the cone vertex in camera frame. Besides, according to the cone axis equation, we have:
 
-$$
-\mathbf{A} \mathbf{x} = \mathbf{b}
-$$
-
-where:
-- $\mathbf{A} = \begin{bmatrix} R^{cl}_{11} & R^{cl}_{21} & v_x \\ R^{cl}_{12} & R^{cl}_{22} & v_y \\ R^{cl}_{13} & R^{cl}_{23} & v_z \end{bmatrix}$
-- $\mathbf{x} = \begin{bmatrix} t^{cl}_1 \\ t^{cl}_2 \\ s_0 \end{bmatrix}$
-- $\mathbf{b} = \begin{bmatrix} -x_0 - R^{cl}_{31} t^{cl}_3 \\ -y_0 - R^{cl}_{32} t^{cl}_3 \\ -z_0 - R^{cl}_{33} t^{cl}_3 \end{bmatrix}$
-
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="formula.png" alt="Pipeline of laser cones fitting" style="max-width: 60%; height: auto;">
+  <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #666; font-style: italic;"></p>
+</div>
 
 For the above system of linear equations, we have three variables: $t^{cl}_1$, $t^{cl}_2$, $s_0$, and we have three linear equations, so the system can be solved and we can get the translation.
 
