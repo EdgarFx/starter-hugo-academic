@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: xiangfei@andrew.cmu.edu
-  phone: (+1)5103877670, (+86)18073163266
+  # phone: (+1)5103877670, (+86)18073163266
 #   address:
 #     street: 450 Serra Mall
 #     city: Stanford
