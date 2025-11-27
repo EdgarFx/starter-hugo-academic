@@ -134,7 +134,7 @@ These videos illustrate the gravity-direction initialization results (Orange: es
 </div>
 
 <div style="margin: 2rem 0;">
-  <h2>Performance Comparison on EuRoC Dataset</h2>
+  <h2>Performance Comparison on EuRoC Dataset (SR in the table refers to the success rate)</h2>
   <img src="results_euroc.png" alt="euroc_init" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
