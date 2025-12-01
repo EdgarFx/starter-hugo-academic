@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 
 
-date: '2025-06-15T00:00:00Z'
-doi: ''
+date: '2025-10-19T00:00:00Z'
+doi: '10.1109/IROS60139.2025.11246796'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-06-15T00:00:00Z'
+publishDate: '2025-10-19T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2510.22529'
+url_pdf: 'https://ieeexplore.ieee.org/document/11246796'
 url_code: 'https://github.com/EdgarFx/BoWG'
 url_dataset: ''
 url_poster: ''
