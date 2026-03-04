@@ -7,9 +7,10 @@ title: "MAC-I²: Learned Metrics-Aware Covariance for Robust Visual-Inertial Ini
 authors:
   - Admin
   - Yuheng Qiu
+  - Can Xu
   - Yutian Chen
   - Ruogu Li
-  - Can Xu
+  - Wenshan Wang
   - Sebastian Scherer
 # Author notes (optional)
 author_notes:
