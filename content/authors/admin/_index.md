@@ -21,6 +21,7 @@ interests:
   - Robotics
   - Simultaneous Localization and Mapping
   - Deep Learning
+  - Multi-sensor Fusion
 
 # Education to show in About widget
 education:
