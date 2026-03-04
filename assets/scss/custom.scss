@@ -1,0 +1,6 @@
+/* Show full featured image in publication cards (no crop). */
+.card-simple.view-card .article-banner {
+  width: 100%;
+  height: auto !important;
+  object-fit: contain !important;
+}
