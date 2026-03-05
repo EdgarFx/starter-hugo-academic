@@ -14,7 +14,7 @@ organizations:
     url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include Robotics, SLAM, and Deep Learning.
+bio: My current research interests include Robotics, SLAM, Deep Learning, and Multi-sensor Fusion.
 
 # Interests to show in About widget
 interests:
@@ -77,8 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a M.S. in Robotics (MSR) student in the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) at the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php). I'm also working closely with [Prof. Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/) at the [CMU AirLab](https://theairlab.org/). Before joining CMU, I received my Bachelor's degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en) in 2024, and I'm honored to be advised by [Prof. Junhua Zhao](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en).
+I am a M.S. in Robotics (MSR) student in the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en) at the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php). I'm also working closely with [Prof. Sebastian Scherer](https://scholar.google.com/citations?user=gxoPfIYAAAAJ&hl=de) at the [CMU AirLab](https://theairlab.org/). Before joining CMU, I received my Bachelor's degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en) in 2024, and I'm honored to be advised by [Prof. Junhua Zhao](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en).
 
-My research interests lie in achieving robust robotic systems that enable long-term autonomous mobility and comprehensive environmental perception and understanding under challenging conditions, such as confined spaces, severe illumination changes, dynamic objects, etc. My current research focuses on **Multi-sensor SLAM** and **Learning-based SLAM**. In addition to localization, mapping, and perception algorithms, I am now also very interested in navigation and control for autonomous systems, and also the hardware prototype design.
+My research interests lie in achieving robust robotic systems that enable long-term autonomous mobility and comprehensive environmental perception and understanding under challenging conditions, such as confined spaces, severe illumination changes, dynamic objects, etc. My current research focuses on **Multi-sensor Fusion** and **Learning-based SLAM**.
 
 Outside of research, I enjoy basketball, hiking and touring, race car, LEGO, PC games, and accompanying my fiancée Waiwai! Check out my [**misc page**](misc/) for more non-research stuff :)
