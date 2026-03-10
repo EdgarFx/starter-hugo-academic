@@ -4,3 +4,42 @@
   height: auto !important;
   object-fit: contain !important;
 }
+
+/* Embedded video layout helpers. */
+.video-embed {
+  margin: 2rem 0;
+}
+
+.video-embed h3 {
+  margin: 0 0 0.75rem 0;
+}
+
+.video-embed__frame {
+  position: relative;
+  width: 100%;
+  background: transparent;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.video-embed__frame video {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  object-fit: contain;
+  background: transparent;
+}
+
+.video-grid {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+}
+
+.video-grid__col {
+  flex: 1 1 280px;
+  min-width: 260px;
+}

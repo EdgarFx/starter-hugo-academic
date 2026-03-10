@@ -85,29 +85,35 @@ Deformable linear objects (DLOs) such as wires, cables, and ropes are common in 
 
 ## Demo Video
 
-<div style="margin: 2rem 0;">
+<div class="video-embed">
   <h3>Introducing DeformX, a versatile co-simulation framework for deformable linear objects</h3>
-  <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-
-<div style="display: flex; gap: 1rem; margin: 2rem 0;">
-  <div style="flex: 1;">
-    <h3>Hit Apple Demo 1</h3>
-    <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <source src="apple1.mp4" type="video/mp4">
+  <div class="video-embed__frame">
+    <video controls>
+      <source src="demo.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
+</div>
+
+
+<div class="video-grid">
+  <div class="video-grid__col">
+    <h3>Hit Apple Demo 1</h3>
+    <div class="video-embed__frame">
+      <video controls>
+        <source src="apple1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
   
-  <div style="flex: 1;">
+  <div class="video-grid__col">
     <h3>Hit Apple Demo 2</h3>
-    <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <source src="apple2.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+    <div class="video-embed__frame">
+      <video controls>
+        <source src="apple2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
   </div>
 </div>
