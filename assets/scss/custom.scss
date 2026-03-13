@@ -1,19 +1,21 @@
 /* Compact vertical spacing for all homepage sections. */
 .home-section {
-  padding: 40px 0;
+  padding: 40px 0 30px;
 }
 
 .home-section:first-of-type {
   padding-top: 50px;
+  padding-bottom: 10px;
 }
 
 @media screen and (max-width: 768px) {
   .home-section {
-    padding: 30px 0;
+    padding: 30px 0 20px;
   }
 
   .home-section:first-of-type {
     padding-top: 40px;
+    padding-bottom: 10px;
   }
 }
 
