@@ -1,6 +1,20 @@
-/* Reduce excessive bottom padding on the About section. */
+/* Compact vertical spacing for all homepage sections. */
+.home-section {
+  padding: 40px 0;
+}
+
 .home-section:first-of-type {
-  padding-bottom: 30px;
+  padding-top: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  .home-section {
+    padding: 30px 0;
+  }
+
+  .home-section:first-of-type {
+    padding-top: 40px;
+  }
 }
 
 /* Show full featured image in publication cards (no crop). */
