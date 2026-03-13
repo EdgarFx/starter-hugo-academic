@@ -6,7 +6,7 @@ title: Xiang Fei
 superuser: true
 
 # Role/position/tagline
-role: Master of Science in Robotics (MSR)
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,17 +24,7 @@ interests:
   - Multi-sensor Fusion
 
 # Education to show in About widget
-education:
-  courses:
-    - course: M.S. in Robotics
-      institution: Carnegie Mellon University
-      year: 2024-2026
-    - course: Visiting Student
-      institution: University of California, Berkeley
-      year: 2023 Spring
-    - course: B.Eng. in Computer Science and Engineering
-      institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2020-2024
+# education:
 
 
 # Social/Academic Networking
