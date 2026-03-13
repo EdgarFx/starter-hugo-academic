@@ -90,12 +90,7 @@
     </div>
 
     {{ with $person.interests }}
-    <div class="row">
-      <div class="col-md-12">
-        <div class="section-subheading" style="display:inline"><strong>Research Interests:</strong></div>
-        {{ delimit . "; " }}
-      </div>
-    </div>
+    <p style="margin-top: 1rem;"><strong>Research Interests:</strong> {{ delimit . "; " }}</p>
     {{ end }}
 
   </div>

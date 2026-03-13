@@ -1,3 +1,8 @@
+/* Reduce excessive bottom padding on the About section. */
+.home-section:first-of-type {
+  padding-bottom: 30px;
+}
+
 /* Show full featured image in publication cards (no crop). */
 .card-simple.view-card .article-banner {
   width: 100%;
