@@ -69,6 +69,6 @@ highlight_name: true
 
 I am an incoming PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Prof. Sebastian Scherer](https://scholar.google.com/citations?user=gxoPfIYAAAAJ&hl=de) at the [AirLab](https://theairlab.org/). Prior to that, I also earned my M.S. degree in Robotics from CMU [Robotics Institute](https://www.ri.cmu.edu/) in 2026, advised by [Prof. Howie Choset](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en) at the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php). Before joining CMU, I received my Bachelor's degree in Computer Science and Engineering from the Chinese University of Hong Kong, Shenzhen (CUHKSZ) in 2024, advised by [Prof. Junhua Zhao](https://scholar.google.com/citations?user=M2oDRWEAAAAJ&hl=en).
 
-My research interests lie in achieving learned, robust, and generalizable localization and mapping for robotics with multiple sensors.
+My research interests lie in achieving learned, robust, and generalizable spatial perception for robotics with multiple sensors.
 
 Outside of research, I enjoy basketball, hiking and touring, race car, LEGO, PC games, and accompanying my fiancée Waiwai! Check out my [**misc page**](misc/) for more non-research stuff :)
