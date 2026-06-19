@@ -50,9 +50,10 @@ featured: true
 
 url_pdf: ''
 url_code: ''
+url_website: 'https://deformx.github.io/'
 url_dataset: 'https://huggingface.co/datasets/DeformX/WireSeg-36K'
 url_poster: ''
-url_project: 'https://deformx.github.io/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
